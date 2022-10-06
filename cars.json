@@ -1,0 +1,4547 @@
+[
+    {
+        "id": 1,
+        "carID": 1,
+        "name": "Corsa Mephisto SS",
+        "longDescription": "The Super Sport edition of the legendary Corsa Mephisto",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "1_large_1.png",
+            "smallSrc": "1_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 430000,
+        "lastModified": 1620060127
+    },
+    {
+        "id": 2,
+        "assetKey": "mephisto",
+        "carID": 2,
+        "name": "Corsa Mephisto",
+        "longDescription": "All racers will fall before the mighty Mephisto!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "mephisto_large.png",
+            "smallSrc": "mephisto_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 265000,
+        "lastModified": 1620060207
+    },
+    {
+        "id": 3,
+        "carID": 3,
+        "name": "Hydrova Rubicorn",
+        "longDescription": "This sturdy hardtop is a perfect starter truck for anyone looking to get into racing, when they aren't busy off roading!",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "3_large_1.png",
+            "smallSrc": "3_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 5000,
+        "lastModified": 1620060265
+    },
+    {
+        "id": 4,
+        "assetKey": "picante",
+        "carID": 4,
+        "name": "Blitz Picante",
+        "longDescription": "One of the sportiest SUVs, this iconic design from Blitz is one you’ll want to show off to all your friends.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "picante_large.png",
+            "smallSrc": "picante_small.png"
+        },
+        "enterSound": "sport",
+        "price": 100000,
+        "lastModified": 1620060292
+    },
+    {
+        "id": 5,
+        "assetKey": "bantlyss",
+        "carID": 5,
+        "name": "Winson Super Sport",
+        "longDescription": "For those who prefer fashion over function; this car’s for you. The elegant design of this coach is sure to turn heads.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "bantlyss_large.png",
+            "smallSrc": "bantlyss_small.png"
+        },
+        "enterSound": "sport",
+        "price": 160000,
+        "lastModified": 1620060306
+    },
+    {
+        "id": 6,
+        "assetKey": "therolls",
+        "carID": 6,
+        "name": "Winson Rolls",
+        "longDescription": "Cash may not grow on trees, but it does grow on the Rolls’ engine... for a price, of course. It takes money to make money, y’know?",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "therolls_large.png",
+            "smallSrc": "therolls_small.png"
+        },
+        "enterSound": "sport",
+        "price": 250000,
+        "lastModified": 1620060330
+    },
+    {
+        "id": 7,
+        "assetKey": "winstoncitroen",
+        "carID": 7,
+        "name": "Velocité Citroen",
+        "longDescription": "One of the more compact options from Velocité's line of vehicles! Smaller equals faster, right?",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "winstoncitroen_large.png",
+            "smallSrc": "winstoncitroen_small.png"
+        },
+        "enterSound": "sport",
+        "price": 45000,
+        "lastModified": 1620060353
+    },
+    {
+        "id": 8,
+        "assetKey": "winstonagile",
+        "carID": 8,
+        "name": "Velocité Agile",
+        "longDescription": "It’s got speed, it’s agile, it’s 100% worth your while.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "winstonagile_large.png",
+            "smallSrc": "winstonagile_small.png"
+        },
+        "enterSound": "sport",
+        "price": 25000,
+        "lastModified": 1620060361
+    },
+    {
+        "id": 9,
+        "carID": 9,
+        "name": "Rental Car",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "9_large_1.png",
+            "smallSrc": "9_small_1.png"
+        },
+        "enterSound": "sport",
+        "lastModified": 1618859440
+    },
+    {
+        "id": 10,
+        "assetKey": "missionaccomplished",
+        "carID": 10,
+        "name": "Liberty Accomplished",
+        "longDescription": "This car’s a perfect fit for those dedicated racers who love showing off, and they’re sure to look great doing it.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "missionaccomplished_large.png",
+            "smallSrc": "missionaccomplished_small.png"
+        },
+        "enterSound": "sport",
+        "price": 25000,
+        "lastModified": 1649289971
+    },
+    {
+        "id": 11,
+        "carID": 11,
+        "name": "Nitreux Vyrus SS",
+        "longDescription": "Nitreux's record breaking production hyper car!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "11_large_1.png",
+            "smallSrc": "11_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 875000,
+        "lastModified": 1630171723
+    },
+    {
+        "id": 13,
+        "assetKey": "auttieb9",
+        "carID": 13,
+        "name": "Blitz B9",
+        "longDescription": "Built upon Blitz's sport touring sedan platform, the B9 is an ideal mix of style and performance.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "auttieb9_large.png",
+            "smallSrc": "auttieb9_small.png"
+        },
+        "enterSound": "sport",
+        "price": 65000,
+        "lastModified": 1620060549
+    },
+    {
+        "id": 14,
+        "carID": 14,
+        "name": "Shimura Lance 722",
+        "longDescription": "Created for style, and fit for endurance. This car can take the heat after long sessions of racing.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "14_large_1.png",
+            "smallSrc": "14_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 15000,
+        "lastModified": 1620060559
+    },
+    {
+        "id": 15,
+        "carID": 15,
+        "name": "Velocité Lion",
+        "longDescription": "With a strikingly awesome paint job and the performance to match, this car’s perfect for starting your drag-racing career.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "15_large_1.png",
+            "smallSrc": "15_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 5000,
+        "lastModified": 1620060565
+    },
+    {
+        "id": 16,
+        "assetKey": "misouxtoad",
+        "carID": 16,
+        "name": "Velocité Toad",
+        "longDescription": "Ribbit! Found in the bottom of a pond several years ago; this is definitely one of the more sought-after cars in Velocité's line-up.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "misouxtoad_large.png",
+            "smallSrc": "misouxtoad_small.png"
+        },
+        "enterSound": "sport",
+        "price": 20000,
+        "lastModified": 1620060573
+    },
+    {
+        "id": 17,
+        "carID": 17,
+        "name": "Flux Cooper",
+        "longDescription": "Simple, speedy, and saves you a buck while it’s at it. The Cooper is one of the classics.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "17_large_1.png",
+            "smallSrc": "17_small_1.png",
+            "assetKey": 17
+        },
+        "enterSound": "sport",
+        "price": 5000,
+        "lastModified": 1620060590
+    },
+    {
+        "id": 18,
+        "assetKey": "nizza350",
+        "carID": 18,
+        "name": "Shimura 350x",
+        "longDescription": "Shimura performance power, without the performance price!",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "nizza350_large.png",
+            "smallSrc": "nizza350_small.png"
+        },
+        "enterSound": "sport",
+        "price": 55000,
+        "lastModified": 1620060598
+    },
+    {
+        "id": 19,
+        "assetKey": "oneace",
+        "carID": 19,
+        "name": "Hydrova One Ace",
+        "longDescription": "This car's truly the wild card of the pack. When you take this sweet rig for a ride, every race is sure to be an ace in the hole.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "oneace_large.png",
+            "smallSrc": "oneace_small.png"
+        },
+        "enterSound": "sport",
+        "price": 20000,
+        "lastModified": 1620060612
+    },
+    {
+        "id": 20,
+        "assetKey": "cougarace",
+        "carID": 20,
+        "name": "Blitz Ace",
+        "longDescription": "They say that the stripes on this Blitz are just for looks… but we all know that stripes equal speed!",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "cougarace_large.png",
+            "smallSrc": "cougarace_small.png"
+        },
+        "enterSound": "sport",
+        "price": 75000,
+        "lastModified": 1649289995
+    },
+    {
+        "id": 21,
+        "carID": 21,
+        "name": "Winson R/T",
+        "longDescription": "An advanced Winson with off-road technology; this car can reliably traverse nearly any terrain imaginable.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "21_large_1.png",
+            "smallSrc": "21_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 85000,
+        "lastModified": 1620060665
+    },
+    {
+        "id": 22,
+        "carID": 22,
+        "name": "Hydrova Howler",
+        "longDescription": "This car is only for the elites. On the outside it may seem like unsuspecting, but on the inside there’s a team of operatives hot on the trail.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "22_large_1.png",
+            "smallSrc": "22_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 45000,
+        "lastModified": 1620060705
+    },
+    {
+        "id": 23,
+        "assetKey": "bensv20",
+        "carID": 23,
+        "name": "Blitz V-20",
+        "longDescription": "Power for days!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "bensv20_large.png",
+            "smallSrc": "bensv20_small.png"
+        },
+        "enterSound": "sport",
+        "price": 209000,
+        "lastModified": 1620060753
+    },
+    {
+        "id": 24,
+        "carID": 24,
+        "name": "Blitz C-64",
+        "longDescription": "Simple, yet classy. No racer should pass up the opportunity to have this car in their Garage.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "24_large_1.png",
+            "smallSrc": "24_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 70000,
+        "lastModified": 1620060760
+    },
+    {
+        "id": 25,
+        "assetKey": "portchspyder",
+        "carID": 25,
+        "name": "Blitz Spyder",
+        "longDescription": "A sleek, vibrant roadster that’s ready to show off before the race even begins.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "portchspyder_large.png",
+            "smallSrc": "portchspyder_small.png"
+        },
+        "enterSound": "sport",
+        "price": 65000,
+        "lastModified": 1620060786
+    },
+    {
+        "id": 26,
+        "assetKey": "auttieroadster",
+        "carID": 26,
+        "name": "Blitz Roadster",
+        "longDescription": "Let the sun shine in, and the wind blow by.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "auttieroadster_large.png",
+            "smallSrc": "auttieroadster_small.png"
+        },
+        "enterSound": "sport",
+        "price": 65000,
+        "lastModified": 1620060805
+    },
+    {
+        "id": 27,
+        "assetKey": "bimmer20",
+        "carID": 27,
+        "name": "Blitz M2.0",
+        "longDescription": "The latest in Blitz's line of affordable, race-ready cars. This vehicle’s rumored to have twice the speed of the Blitz M1.0!",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "bimmer20_large.png",
+            "smallSrc": "bimmer20_small.png"
+        },
+        "enterSound": "sport",
+        "price": 90000,
+        "lastModified": 1620060818
+    },
+    {
+        "id": 28,
+        "assetKey": "bimmer9",
+        "carID": 28,
+        "name": "Blitz 9.0t",
+        "longDescription": "German engineering with understated power. For all those who prefer function over flash.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "bimmer9_large.png",
+            "smallSrc": "bimmer9_small.png"
+        },
+        "enterSound": "sport",
+        "price": 75000,
+        "lastModified": 1620060824
+    },
+    {
+        "id": 29,
+        "carID": 29,
+        "name": "Blitz Thunder Cougarbird",
+        "longDescription": "This beauty packs the speed of a golden eagle... minus the wingspan.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "29_large_1.png",
+            "smallSrc": "29_small_1.png",
+            "assetKey": 29
+        },
+        "enterSound": "muscle",
+        "price": 90000,
+        "lastModified": 1620060841
+    },
+    {
+        "id": 30,
+        "carID": 30,
+        "name": "Rat Rod Skully",
+        "longDescription": "An old fashioned car, given out to dedicated racers.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "30_large_1.png",
+            "smallSrc": "30_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 70000,
+        "lastModified": 1653496670
+    },
+    {
+        "id": 31,
+        "carID": 31,
+        "name": "Blitz R11",
+        "longDescription": "Originally built for endurance racing, the R11 is recommended for those long sessions on the track!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "31_large_1.png",
+            "smallSrc": "31_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 2407500,
+        "lastModified": 1631384117
+    },
+    {
+        "id": 33,
+        "carID": 33,
+        "name": "The Flamerod",
+        "longDescription": "Phew! The heat from this car’s engine is sure to make you sweat.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "33_large_1.png",
+            "smallSrc": "33_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 60000,
+        "lastModified": 1619647879
+    },
+    {
+        "id": 34,
+        "carID": 34,
+        "name": "Koromoto Performo NRX",
+        "longDescription": "The Performo’s unique design is truly one-of-a-kind. An over the top driving machine from across the pond.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "34_large_1.png",
+            "smallSrc": "34_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 120000,
+        "lastModified": 1620060905
+    },
+    {
+        "id": 35,
+        "carID": 35,
+        "name": "Blitz GT3 RS",
+        "longDescription": "Performance unlike any other for the racers, and a glossy finish for the collectors.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "35_large_1.png",
+            "smallSrc": "35_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 185000,
+        "lastModified": 1620060911
+    },
+    {
+        "id": 36,
+        "carID": 36,
+        "name": "Liberty Ponce de Leon",
+        "longDescription": "Seen for the first time on the east coast of Florida, this car is sure to help you explore levels of speed never seen before. ",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "36_large_1.png",
+            "smallSrc": "36_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 70000,
+        "lastModified": 1620060921
+    },
+    {
+        "id": 37,
+        "carID": 37,
+        "name": "Liberty '67 Shellback",
+        "longDescription": "Roof down, ‘cross town, you’re driving like a rockstar.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "37_large_1.png",
+            "smallSrc": "37_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 65000,
+        "lastModified": 1653496664
+    },
+    {
+        "id": 38,
+        "carID": 38,
+        "name": "Road Warrior",
+        "longDescription": "You’re a speed king, everyone’s going to watch you fly by.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "38_large_1.png",
+            "smallSrc": "38_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 300000,
+        "lastModified": 1619652152
+    },
+    {
+        "id": 39,
+        "carID": 39,
+        "name": "Winson Elise",
+        "longDescription": "A V8 engine paired with an ultra-capacity battery. Hybrid never looked so good!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "39_large_1.png",
+            "smallSrc": "39_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 396000,
+        "lastModified": 1649290010
+    },
+    {
+        "id": 40,
+        "assetKey": "shellbackrt500",
+        "carID": 40,
+        "name": "Liberty '69 Shellback RT-500",
+        "longDescription": "This old-school convertible’s not messing around! Put the top down, and let your worries blow away in the breeze.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "shellbackrt500_large.png",
+            "smallSrc": "shellbackrt500_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 60000,
+        "lastModified": 1649290027
+    },
+    {
+        "id": 42,
+        "carID": 42,
+        "name": "Winson Gator",
+        "longDescription": "Discovered in a swamp east of Nitro Speedway, this is one dangerous hot rod with a nasty bite on the track.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "42_large_1.png",
+            "smallSrc": "42_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 90000,
+        "lastModified": 1620063475
+    },
+    {
+        "id": 43,
+        "assetKey": "suprillia",
+        "carID": 43,
+        "name": "Shimura Suprillia",
+        "longDescription": "Rumored to have an engine made of Mythril, the Shimura Suprillia is quick, light-weight, and sure to turn heads.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "suprillia_large.png",
+            "smallSrc": "suprillia_small.png"
+        },
+        "enterSound": "sport",
+        "price": 135000,
+        "lastModified": 1620063499
+    },
+    {
+        "id": 44,
+        "carID": 44,
+        "name": "The Judge",
+        "longDescription": "There’s no objecting to this fact: The Judge is an absolute beast of a car.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "44_large_1.png",
+            "smallSrc": "44_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 700000,
+        "lastModified": 1649290047
+    },
+    {
+        "id": 45,
+        "assetKey": "stallion",
+        "carID": 45,
+        "name": "Liberty Stallion",
+        "longDescription": "The classic roadster, in striking blue with a single white racing strip. Perfect for a rip around the track.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "stallion_large.png",
+            "smallSrc": "stallion_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 80000,
+        "lastModified": 1620063638
+    },
+    {
+        "id": 46,
+        "carID": 46,
+        "name": "The Macro",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "46_large_1.png",
+            "smallSrc": "46_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 1456700,
+        "lastModified": 1618923997
+    },
+    {
+        "id": 47,
+        "assetKey": "fastback",
+        "carID": 47,
+        "name": "Liberty Fastback",
+        "longDescription": "See that loooong sloping back? It's called a fastback! Can you guess why?",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "fastback_large.png",
+            "smallSrc": "fastback_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 65000,
+        "lastModified": 1620063649
+    },
+    {
+        "id": 48,
+        "carID": 48,
+        "name": "The Covenant",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "48_large_1.png",
+            "smallSrc": "48_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 678000,
+        "lastModified": 1653496758
+    },
+    {
+        "id": 49,
+        "carID": 49,
+        "name": "The Trifecta",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "49_large_1.png",
+            "smallSrc": "49_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 3141592,
+        "lastModified": 1653496675
+    },
+    {
+        "id": 50,
+        "carID": 50,
+        "name": "8 Bit Racer",
+        "longDescription": "A retro classic with an eye-catching red paint job. The 8 Bit Racer is meant for the old-school elite.",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "50_large_1.png",
+            "smallSrc": "50_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 5010101,
+        "lastModified": 1653496809
+    },
+    {
+        "id": 51,
+        "carID": 51,
+        "name": "Mini Sherman",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "51_large_1.png",
+            "smallSrc": "51_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 10000000,
+        "lastModified": 1653496680
+    },
+    {
+        "id": 52,
+        "assetKey": "pizza",
+        "carID": 52,
+        "name": "Typiano Pizza Car",
+        "longDescription": "Pizza lover or not, the Typiano car can’t be topped. Get a slice of the action now - it's the yeast you can do. ",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "pizza_large.png",
+            "smallSrc": "pizza_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 2250000,
+        "lastModified": 1618923917,
+        "publicKey": "a36f6764b6d0369f51bf5bc7a48272a10804402b"
+    },
+    {
+        "id": 53,
+        "carID": 53,
+        "name": "Rocket Man",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "53_large_1.png",
+            "smallSrc": "53_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 1500000,
+        "lastModified": 1618923860
+    },
+    {
+        "id": 54,
+        "assetKey": "atv2",
+        "carID": 54,
+        "name": "All Terrain Vehicle",
+        "longDescription": "This ATV can traverse the toughest of terrain! Dirt roads, gravel, sand dunes – even water! (If you’re going fast enough, of course.)",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "atv2_large.png",
+            "smallSrc": "atv2_small.png"
+        },
+        "enterSound": "sport",
+        "price": 15000,
+        "lastModified": 1649291555
+    },
+    {
+        "id": 55,
+        "assetKey": "mp427",
+        "carID": 55,
+        "name": "Blitz MP 427",
+        "longDescription": "This is your chance to own the 2012 championship winning MP 427, driven by team 'For The Win'!",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "mp427_large.png",
+            "smallSrc": "mp427_small.png"
+        },
+        "enterSound": "sport",
+        "price": 900000,
+        "lastModified": 1620063659
+    },
+    {
+        "id": 56,
+        "carID": 56,
+        "name": "Wambulance",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "56_large_1.png",
+            "smallSrc": "56_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 80000,
+        "lastModified": 1653496751
+    },
+    {
+        "id": 57,
+        "carID": 57,
+        "name": "Hotdog Mobile",
+        "longDescription": "*chomp chomp chomp* Oh, hey, sorry I was just munching down on my new car!",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "57_large_1.png",
+            "smallSrc": "57_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 850000,
+        "lastModified": 1618923799
+    },
+    {
+        "id": 58,
+        "assetKey": "f35",
+        "carID": 58,
+        "name": "F-35 JSF",
+        "longDescription": "The next generation of fighter aircraft, crammed full of leading edge tech, the F-35 is the fiercest jet on the track.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "f35_large.png",
+            "smallSrc": "f35_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 4500000,
+        "lastModified": 1620835720
+    },
+    {
+        "id": 59,
+        "carID": 59,
+        "name": "NASA Shuttle",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "59_large_1.png",
+            "smallSrc": "59_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 15000000,
+        "lastModified": 1618923765
+    },
+    {
+        "id": 60,
+        "carID": 60,
+        "name": "Flux S1X",
+        "longDescription": "Flux's iconic S1X (pronounced Six) fits just the essentials... you!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "60_large_1.png",
+            "smallSrc": "60_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 630000,
+        "lastModified": 1620259889
+    },
+    {
+        "id": 61,
+        "carID": 61,
+        "name": "Maxxbilt Mack Daddy",
+        "longDescription": "A semi-truck that’s hauling more than just races. With flames for decals, and an improved engine; this truck can certainly bring the heat.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "61_large_1.png",
+            "smallSrc": "61_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 125000,
+        "lastModified": 1620063803
+    },
+    {
+        "id": 62,
+        "assetKey": "bighauler",
+        "carID": 62,
+        "name": "Maxxbilt Big Hauler",
+        "longDescription": "Hauling cash? Nope. Hauling cargo? Nope. Hauling in wins? Yup.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "bighauler_large.png",
+            "smallSrc": "bighauler_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 125000,
+        "lastModified": 1624291762
+    },
+    {
+        "id": 63,
+        "carID": 63,
+        "name": "Maxxbilt Big Blue",
+        "longDescription": "A simple truck with a glossy finish. One of the best deals on the market.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "63_large_1.png",
+            "smallSrc": "63_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 45000,
+        "lastModified": 1620063815
+    },
+    {
+        "id": 64,
+        "assetKey": "gt40",
+        "carID": 64,
+        "name": "Liberty GT40",
+        "longDescription": "Liberty's championship winning GT40 is back! Own a piece of history, and snag yourself some wins!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "gt40_large.png",
+            "smallSrc": "gt40_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 250000,
+        "lastModified": 1620063879
+    },
+    {
+        "id": 65,
+        "carID": 65,
+        "name": "Liberty Cobra GST-R",
+        "longDescription": "If you could only have one car in your Garage, it’d be this one for sure. Open-roofed American muscle at its purest.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "65_large_1.png",
+            "smallSrc": "65_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 350000,
+        "lastModified": 1648243808
+    },
+    {
+        "id": 66,
+        "carID": 66,
+        "name": "Corsa 8Ω",
+        "longDescription": "Crafted over the course of years, this car was born for performance from the start due to its feather-weight frame.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "66_large_1.png",
+            "smallSrc": "66_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 80000,
+        "lastModified": 1620063956
+    },
+    {
+        "id": 67,
+        "carID": 67,
+        "name": "Hydrova Buggy 1.0",
+        "longDescription": "Blaze down the beach in a classic buggy. ",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "67_large_1.png",
+            "smallSrc": "67_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 300000,
+        "lastModified": 1620063975
+    },
+    {
+        "id": 68,
+        "carID": 68,
+        "name": "F4U Corsair",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "68_large_1.png",
+            "smallSrc": "68_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 2000000,
+        "lastModified": 1653496646
+    },
+    {
+        "id": 69,
+        "assetKey": "rocketsleigh",
+        "carID": 69,
+        "name": "Rocket Sleigh",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "rocketsleigh_large.png",
+            "smallSrc": "rocketsleigh_small.png"
+        },
+        "enterSound": "sport",
+        "price": 10000,
+        "lastModified": 1624291592
+    },
+    {
+        "id": 70,
+        "carID": 70,
+        "name": "XMaxx Tree Racer",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "70_large_1.png",
+            "smallSrc": "70_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 1000000,
+        "lastModified": 1618923653
+    },
+    {
+        "id": 71,
+        "carID": 71,
+        "name": "Shadow XMaxx Tree",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "71_large_1.png",
+            "smallSrc": "71_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 2000000,
+        "lastModified": 1618923633
+    },
+    {
+        "id": 72,
+        "carID": 72,
+        "name": "Party Sleigh",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "72_large_1.png",
+            "smallSrc": "72_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 1500000,
+        "lastModified": 1618923613
+    },
+    {
+        "id": 73,
+        "carID": 73,
+        "name": "Fonicci Tricolore",
+        "longDescription": "Fonicci’s famous Tricolore is made for those who are truly dedicated to the craft. Built for serious speed, as well as total comfort in the cockpit.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "73_large_1.png",
+            "smallSrc": "73_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 2100000,
+        "lastModified": 1653496712
+    },
+    {
+        "id": 74,
+        "carID": 74,
+        "name": "Liberty Monster",
+        "longDescription": "No Rental Cars were hurt in the making of this vehicle.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "74_large_1.png",
+            "smallSrc": "74_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 105000,
+        "lastModified": 1620064708
+    },
+    {
+        "id": 75,
+        "carID": 75,
+        "name": "Flux Capacitor",
+        "longDescription": "Engineered with 1.21 gigawatts of racing power! Where we’re going, we don’t need roads.",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "75_large_1.png",
+            "smallSrc": "75_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 4500000,
+        "lastModified": 1653496725
+    },
+    {
+        "id": 76,
+        "carID": 76,
+        "name": "The Gotham",
+        "longDescription": "It is vengeance. It is the night. It is the legendary Gotham.",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "76_large_1.png",
+            "smallSrc": "76_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 8000000,
+        "lastModified": 1649290139
+    },
+    {
+        "id": 77,
+        "carID": 77,
+        "name": "The Pirc",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "77_large_1.png",
+            "smallSrc": "77_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 7000000,
+        "lastModified": 1618923455
+    },
+    {
+        "id": 78,
+        "carID": 78,
+        "name": "Koromoto GXRS 1200",
+        "longDescription": "One of the biggest sportbikes on the market. 0-60 faster than a Corsa!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "78_large_1.png",
+            "smallSrc": "78_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 220000,
+        "lastModified": 1620064729
+    },
+    {
+        "id": 79,
+        "assetKey": "ezrider",
+        "carID": 79,
+        "name": "Bozz EZ Rider",
+        "longDescription": "The louder the pipes, the quicker the motorcycle, duh!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "ezrider_large.png",
+            "smallSrc": "ezrider_small.png"
+        },
+        "enterSound": "sport",
+        "price": 95000,
+        "lastModified": 1620064746
+    },
+    {
+        "id": 80,
+        "carID": 80,
+        "name": "Corsa AdventX",
+        "longDescription": "Turn heads, break speed records, and vrooooooom!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "80_large_1.png",
+            "smallSrc": "80_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 650000,
+        "lastModified": 1620064791
+    },
+    {
+        "id": 81,
+        "carID": 81,
+        "name": "Liberty Classic",
+        "longDescription": "We're loading up our Woody with our boards inside, and headin' out singing our soooooong.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "81_large_1.png",
+            "smallSrc": "81_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 85000,
+        "lastModified": 1620064811
+    },
+    {
+        "id": 82,
+        "carID": 82,
+        "name": "Hang Ten",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "82_large_1.png",
+            "smallSrc": "82_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 1200000,
+        "lastModified": 1653496737
+    },
+    {
+        "id": 83,
+        "carID": 83,
+        "name": "Liberty '41 Woodie Deluxx",
+        "longDescription": "Blaze across the seaside in this fiery-hot Woodie from the Summer of '13! Deluxx build, deluxx handling, fit to handle a whole summer's worth of fun. BBQs every day!",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "83_large_1.png",
+            "smallSrc": "83_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 1500000,
+        "lastModified": 1653496796
+    },
+    {
+        "id": 84,
+        "assetKey": "hang11",
+        "carID": 84,
+        "name": "Hang Eleven",
+        "longDescription": "Winner of the first NTH Big Wave Competition and the hottest, most jacked-up vehicle on or off the beach.",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "hang11_large.png",
+            "smallSrc": "hang11_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 1900000,
+        "lastModified": 1653496776,
+        "publicKey": "afe5ef0e74422a7a0efc58320329cf2da1afb797"
+    },
+    {
+        "id": 85,
+        "carID": 85,
+        "name": "Liberty '41 Woodie Sunshine",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "85_large_1.png",
+            "smallSrc": "85_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 500000,
+        "lastModified": 1653496803
+    },
+    {
+        "id": 86,
+        "assetKey": "xcelsior",
+        "carID": 86,
+        "name": "The Xcelsior V12",
+        "options": {
+            "key": "xcelsior",
+            "rarity": "legendary",
+            "largeSrc": "86_large_1.png",
+            "smallSrc": "86_small_1.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 1000000,
+        "lastModified": 1618428553,
+        "publicKey": "ced21b2b2d1b241559fcaeafac93827202565be1"
+    },
+    {
+        "id": 87,
+        "carID": 87,
+        "name": "Liberty '68 Roadtripper",
+        "longDescription": "The classic adventure van.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "87_large_1.png",
+            "smallSrc": "87_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 310000,
+        "lastModified": 1653496745
+    },
+    {
+        "id": 88,
+        "carID": 88,
+        "name": "Hang Fifteen",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "88_large_1.png",
+            "smallSrc": "88_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 2500000,
+        "lastModified": 1653496785
+    },
+    {
+        "id": 89,
+        "carID": 89,
+        "name": "Wach 6",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "89_large_1.png",
+            "smallSrc": "89_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 13000000,
+        "lastModified": 1653497329
+    },
+    {
+        "id": 90,
+        "carID": 90,
+        "name": "Liberty F-125",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "90_large_1.png",
+            "smallSrc": "90_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 100000,
+        "lastModified": 1620064853
+    },
+    {
+        "id": 91,
+        "carID": 91,
+        "name": "Stingtec Electric",
+        "longDescription": "Stingtec's original sportscar EV, partially powered by solar roof panels.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "91_large_1.png",
+            "smallSrc": "91_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 450000,
+        "lastModified": 1630685856
+    },
+    {
+        "id": 92,
+        "carID": 92,
+        "name": "Liberty '63 Vette",
+        "longDescription": "Revamped from decades-old blueprints, the ‘63 Vette is a true classic in the modern age of racing.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "92_large_1.png",
+            "smallSrc": "92_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 150000,
+        "lastModified": 1649290153
+    },
+    {
+        "id": 93,
+        "assetKey": "fluxm300",
+        "carID": 93,
+        "name": "Flux M300",
+        "longDescription": "Kept under wraps for years, this super-elusive model from Flux is quite the hot-ticket item. The silvery sleek M300 says so much with so little.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "fluxm300_large.png",
+            "smallSrc": "fluxm300_small.png"
+        },
+        "enterSound": "sport",
+        "price": 555000,
+        "lastModified": 1648243820
+    },
+    {
+        "id": 95,
+        "carID": 95,
+        "name": "Blitz Police Cruiser",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "95_large_1.png",
+            "smallSrc": "95_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 10000000,
+        "lastModified": 1620064922
+    },
+    {
+        "id": 96,
+        "assetKey": "auttier8",
+        "carID": 96,
+        "name": "Blitz R-8.1",
+        "longDescription": "To this day, this elite car remains shrouded in mystery... show up to the Start line with this car and you'll seem very mysterious yourself.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "auttier8_large.png",
+            "smallSrc": "auttier8_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 110000,
+        "lastModified": 1620064930
+    },
+    {
+        "id": 97,
+        "assetKey": "wampus",
+        "carID": 97,
+        "name": "Wampus",
+        "options": {
+            "key": "wampus",
+            "rarity": "legendary",
+            "largeSrc": "97_large_1.png",
+            "smallSrc": "97_small_1.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "lastModified": 1637343641,
+        "publicKey": "8b3b2da544e8f57bee92f884118b9d4be3a35536"
+    },
+    {
+        "id": 98,
+        "carID": 98,
+        "name": "Pumpkin Hauler",
+        "longDescription": "Enhanced with petrifying pumpkin power, the Pumpkin Hauler is the OG Hallowampus vehicle.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "98_large_1.png",
+            "smallSrc": "98_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 1230000,
+        "lastModified": 1649290169
+    },
+    {
+        "id": 99,
+        "carID": 99,
+        "name": "Wreath Racer",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "99_large_1.png",
+            "smallSrc": "99_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 100000,
+        "lastModified": 1619017542
+    },
+    {
+        "id": 100,
+        "carID": 100,
+        "name": "Santa's Buggy",
+        "longDescription": "With a tourney-winning car design and presents in tow, Santa's ready to hit the snow and deliver gifts faster than ever!",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "100_large_1.png",
+            "smallSrc": "100_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 2500000,
+        "lastModified": 1639887783
+    },
+    {
+        "id": 101,
+        "carID": 101,
+        "name": "Travis' Car",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "101_large_1.png",
+            "smallSrc": "101_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 100,
+        "lastModified": 1637343636
+    },
+    {
+        "id": 102,
+        "carID": 102,
+        "name": "Winson Dark Elf",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "102_large_1.png",
+            "smallSrc": "102_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 200000,
+        "lastModified": 1620064938
+    },
+    {
+        "id": 103,
+        "carID": 103,
+        "name": "The Golden Gift",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "103_large_1.png",
+            "smallSrc": "103_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 100000,
+        "lastModified": 1618427937
+    },
+    {
+        "id": 104,
+        "carID": 104,
+        "name": "Corndog's Car",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "104_large_1.png",
+            "smallSrc": "104_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 100,
+        "lastModified": 1637343658
+    },
+    {
+        "id": 105,
+        "carID": 105,
+        "name": "Liberty '14 Mantaray",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "105_large_1.png",
+            "smallSrc": "105_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 15000000,
+        "lastModified": 1620064957
+    },
+    {
+        "id": 106,
+        "carID": 106,
+        "name": "Fonicci Samsher 458",
+        "longDescription": "One of Fonicci’s very first custom cars! Named after the famous racer, the Samsher does 0-60 in 2.4 seconds!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "106_large_1.png",
+            "smallSrc": "106_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 1200000,
+        "lastModified": 1648243847
+    },
+    {
+        "id": 107,
+        "carID": 107,
+        "name": "Fonicci Lacan Hypersport",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "107_large_1.png",
+            "smallSrc": "107_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 17000000,
+        "lastModified": 1620064988
+    },
+    {
+        "id": 109,
+        "carID": 109,
+        "name": "Sun Buggie",
+        "longDescription": "Sparkling in the sun, this buggie is ready to show you what speed really means.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "109_large_1.png",
+            "smallSrc": "109_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 100000,
+        "lastModified": 1619647868
+    },
+    {
+        "id": 110,
+        "assetKey": "hammerwheels",
+        "carID": 110,
+        "name": "Hammer Wheels",
+        "longDescription": "Hammer Wheels is the ultimate predator.",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "hammerwheels_large.png",
+            "smallSrc": "hammerwheels_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 9000000,
+        "lastModified": 1618427801
+    },
+    {
+        "id": 111,
+        "carID": 111,
+        "name": "Kringle 4000",
+        "longDescription": "Move over Rudolph, Santa’s got a brand new ride.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "111_large_1.png",
+            "smallSrc": "111_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 450000,
+        "lastModified": 1648243861
+    },
+    {
+        "id": 112,
+        "carID": 112,
+        "name": "Buddy's Snowmobile",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "112_large_1.png",
+            "smallSrc": "112_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 50000,
+        "lastModified": 1618427634
+    },
+    {
+        "id": 113,
+        "carID": 113,
+        "name": "Kringle 4000 XL",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "113_large_1.png",
+            "smallSrc": "113_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 3000000,
+        "lastModified": 1618427615
+    },
+    {
+        "id": 114,
+        "carID": 114,
+        "name": "Buddy's Snowmorocket",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "114_large_1.png",
+            "smallSrc": "114_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 1500000,
+        "lastModified": 1618427607
+    },
+    {
+        "id": 115,
+        "carID": 115,
+        "name": "Liberty Six Four",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "115_large_1.png",
+            "smallSrc": "115_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 1000000,
+        "lastModified": 1620064998
+    },
+    {
+        "id": 116,
+        "carID": 116,
+        "name": "Liberty Six Four Plus Three",
+        "longDescription": "Perfect for cruisin’ the boardwalk with your buds. This classic six-four from 2016’s Summer event is the ultimate four-seater!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "116_large_1.png",
+            "smallSrc": "116_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 750000,
+        "lastModified": 1648243876
+    },
+    {
+        "id": 117,
+        "carID": 117,
+        "name": "The Midnight Hauler",
+        "longDescription": "2spooky4u... This scarily awesome big rig makes it feel like Halloween no matter what time of the year it is.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "117_large_1.png",
+            "smallSrc": "117_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 500000,
+        "lastModified": 1620430384
+    },
+    {
+        "id": 118,
+        "carID": 118,
+        "name": "The Candy Hauler",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "118_large_1.png",
+            "smallSrc": "118_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 10000000,
+        "lastModified": 1633143262
+    },
+    {
+        "id": 119,
+        "carID": 119,
+        "name": "Kringle 5000",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "119_large_1.png",
+            "smallSrc": "119_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 100000,
+        "lastModified": 1618427522
+    },
+    {
+        "id": 120,
+        "carID": 120,
+        "name": "Wrapped Wracer",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "120_large_1.png",
+            "smallSrc": "120_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 100000,
+        "lastModified": 1618427513
+    },
+    {
+        "id": 121,
+        "carID": 121,
+        "name": "Wrapped Wracer GT",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "121_large_1.png",
+            "smallSrc": "121_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 2000000,
+        "lastModified": 1618427502
+    },
+    {
+        "id": 122,
+        "carID": 122,
+        "name": "Holiday Hero",
+        "longDescription": "When the hero is near, that's how you know the holidays are here.",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "122_large_1.png",
+            "smallSrc": "122_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 15000000,
+        "lastModified": 1638127140
+    },
+    {
+        "id": 123,
+        "carID": 123,
+        "name": "Kringle 5000 L.T.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "123_large_1.png",
+            "smallSrc": "123_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 1500000,
+        "lastModified": 1618427457
+    },
+    {
+        "id": 124,
+        "carID": 124,
+        "name": "Blitz McLaro SLR",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "124_large_1.png",
+            "smallSrc": "124_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 15000000,
+        "lastModified": 1620065033
+    },
+    {
+        "id": 125,
+        "carID": 125,
+        "name": "Floaty Blue",
+        "longDescription": "Yeah, buoy! This classic 2016 Summer floaty is perfect for sailing past the competition! Just watch out for any shells on the beach.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "125_large_1.png",
+            "smallSrc": "125_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 1000000,
+        "lastModified": 1622838508
+    },
+    {
+        "id": 126,
+        "carID": 126,
+        "name": "B.O.A.T.",
+        "longDescription": "Summer 2017's \"Yachta Yachta\" season unlock is now available to all #yachtlife fans.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "126_large_1.png",
+            "smallSrc": "126_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 888000,
+        "lastModified": 1619889751
+    },
+    {
+        "id": 127,
+        "carID": 127,
+        "name": "I'm Spicy!",
+        "longDescription": "Sorry, we're out of mild, hot sauce only!",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "127_large_1.png",
+            "smallSrc": "127_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 2500000,
+        "lastModified": 1618427405
+    },
+    {
+        "id": 128,
+        "assetKey": "yacht",
+        "carID": 128,
+        "name": "Y.A.C.H.T.",
+        "longDescription": "This 2018 Surf 'N' Turf throwback is one of the best luxuries in life. If you have to ask what its name stands for, maaaybe it's not for you.",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "yacht_large.png",
+            "smallSrc": "yacht_small.png"
+        },
+        "enterSound": "sport",
+        "price": 5000000,
+        "lastModified": 1653496815
+    },
+    {
+        "id": 129,
+        "carID": 129,
+        "name": "Blitz McLaro SLR 12.5",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "129_large_1.png",
+            "smallSrc": "129_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 20000000,
+        "lastModified": 1620065044
+    },
+    {
+        "id": 130,
+        "carID": 130,
+        "name": "Nitr-o'-Lantern",
+        "longDescription": "This pumpkin-powered racer makes its return from the 2016 Hallowampus event!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "130_large_1.png",
+            "smallSrc": "130_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 500000,
+        "lastModified": 1633581787
+    },
+    {
+        "id": 131,
+        "carID": 131,
+        "name": "Nitr-o'-the-Wisp",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "131_large_1.png",
+            "smallSrc": "131_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 5000000,
+        "lastModified": 1618427083
+    },
+    {
+        "id": 132,
+        "carID": 132,
+        "name": "XMaxx Xxpress",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "132_large_1.png",
+            "smallSrc": "132_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 500000,
+        "lastModified": 1618427064
+    },
+    {
+        "id": 133,
+        "carID": 133,
+        "name": "XMaxx Xxpress XXL",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "133_large_1.png",
+            "smallSrc": "133_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 5000000,
+        "lastModified": 1618427056
+    },
+    {
+        "id": 134,
+        "carID": 134,
+        "name": "Gilded Xxpress",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "134_large_1.png",
+            "smallSrc": "134_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 100000,
+        "lastModified": 1618427048
+    },
+    {
+        "id": 135,
+        "assetKey": "corsa_xmaxx",
+        "carID": 135,
+        "name": "Corsa XMaxx LT",
+        "longDescription": "A 2016 XMaxx throwback, ready to light up the track once more!",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "corsa_xmaxx_large.png",
+            "smallSrc": "corsa_xmaxx_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 100000,
+        "lastModified": 1638148392,
+        "publicKey": "d10c4483fe2ff01e70745ec2edd96594a4fb39f8"
+    },
+    {
+        "id": 136,
+        "carID": 136,
+        "name": "Corsa Xmaxx LT-C",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "136_large_1.png",
+            "smallSrc": "136_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 1500000,
+        "lastModified": 1620065058
+    },
+    {
+        "id": 137,
+        "carID": 137,
+        "name": "Blitz McLaro SHS 15.0",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "137_large_1.png",
+            "smallSrc": "137_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 25000000,
+        "lastModified": 1620065069
+    },
+    {
+        "id": 138,
+        "assetKey": "strykist",
+        "carID": 138,
+        "name": "Bozz Strykist 1300",
+        "longDescription": "Two wheels good, four wheels bad.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "strykist_large.png",
+            "smallSrc": "strykist_small.png"
+        },
+        "enterSound": "sport",
+        "price": 235000,
+        "lastModified": 1620065106
+    },
+    {
+        "id": 139,
+        "carID": 139,
+        "name": "Range Runner",
+        "longDescription": "Blast through the woods with the hottest side by side around!",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "139_large_1.png",
+            "smallSrc": "139_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 80000,
+        "lastModified": 1619633854
+    },
+    {
+        "id": 140,
+        "carID": 140,
+        "name": "Bozz Strykist 1300 XT-LR",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "140_large_1.png",
+            "smallSrc": "140_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 3000000,
+        "lastModified": 1620065101
+    },
+    {
+        "id": 141,
+        "carID": 141,
+        "name": "Track-o'-Lantern",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "141_large_1.png",
+            "smallSrc": "141_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 7250000,
+        "lastModified": 1633143281
+    },
+    {
+        "id": 142,
+        "carID": 142,
+        "name": "Gingerbread Racer",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "142_large_1.png",
+            "smallSrc": "142_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 500,
+        "lastModified": 1618426498
+    },
+    {
+        "id": 143,
+        "carID": 143,
+        "name": "Gingerbread Racer H&T",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "143_large_1.png",
+            "smallSrc": "143_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 3000000,
+        "lastModified": 1618426491
+    },
+    {
+        "id": 144,
+        "carID": 144,
+        "name": "Missile Toe",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "144_large_1.png",
+            "smallSrc": "144_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 3000000,
+        "lastModified": 1618426475
+    },
+    {
+        "id": 145,
+        "carID": 145,
+        "name": "Missile Toe H&T",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "145_large_1.png",
+            "smallSrc": "145_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 5000000,
+        "lastModified": 1618426464
+    },
+    {
+        "id": 146,
+        "carID": 146,
+        "name": "The Dark Chocolate Knight",
+        "longDescription": "They say victory is sweet, and that really rings true with the Dark Chocolate Knight! Sugary speed unmatched by any other.",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "146_large_1.png",
+            "smallSrc": "146_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 15000000,
+        "lastModified": 1649290186
+    },
+    {
+        "id": 149,
+        "carID": 149,
+        "name": "Teggsla",
+        "longDescription": "An egg on wheels? That's gonna be hard to beat. This 2018 Spring Fever racer scrambles the competition!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "149_large_1.png",
+            "smallSrc": "149_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 950000,
+        "lastModified": 1644965167
+    },
+    {
+        "id": 150,
+        "carID": 150,
+        "name": "Egg Beater",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "150_large_1.png",
+            "smallSrc": "150_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 500000,
+        "lastModified": 1618426181
+    },
+    {
+        "id": 151,
+        "carID": 151,
+        "name": "Eggcedes",
+        "longDescription": "Packed with a beefed-up engine and rainbow racing stripes for egg-splosive power, the Eggcedes is one top-of-the-line egg racer!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "151_large_1.png",
+            "smallSrc": "151_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 2000000,
+        "lastModified": 1649290200
+    },
+    {
+        "id": 152,
+        "carID": 152,
+        "name": "Egg Hauler",
+        "longDescription": "A 2018 Spring Fever throwback everyone can get eggcited about!",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "152_large_1.png",
+            "smallSrc": "152_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 15000000,
+        "lastModified": 1643319208
+    },
+    {
+        "id": 153,
+        "carID": 153,
+        "name": "Blitz GT 20.0",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "153_large_1.png",
+            "smallSrc": "153_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 30000000,
+        "lastModified": 1653496654
+    },
+    {
+        "id": 154,
+        "carID": 154,
+        "name": "Rocky Roo",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "154_large_1.png",
+            "smallSrc": "154_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 10000,
+        "lastModified": 1618425935
+    },
+    {
+        "id": 155,
+        "carID": 155,
+        "name": "NitroPAC",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "155_large_1.png",
+            "smallSrc": "155_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 10000000,
+        "lastModified": 1618425926
+    },
+    {
+        "id": 156,
+        "carID": 156,
+        "name": "Matchbox",
+        "longDescription": "Some of the greatest professional race car drivers started on go karts... you could be next.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "156_large_1.png",
+            "smallSrc": "156_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 333000,
+        "lastModified": 1618425965
+    },
+    {
+        "id": 157,
+        "carID": 157,
+        "name": "Lucky Number 7",
+        "longDescription": "Look at that little kart go!",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "157_large_1.png",
+            "smallSrc": "157_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 450000,
+        "lastModified": 1618425907
+    },
+    {
+        "id": 158,
+        "carID": 158,
+        "name": "Easy Breezy",
+        "longDescription": "Easy. Breezy. Powerful. Hovercraft.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "158_large_1.png",
+            "smallSrc": "158_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 500000,
+        "lastModified": 1623265415
+    },
+    {
+        "id": 159,
+        "carID": 159,
+        "name": "HoverJet 5000 Mk. 3",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "159_large_1.png",
+            "smallSrc": "159_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 1000000,
+        "lastModified": 1618425875
+    },
+    {
+        "id": 160,
+        "carID": 160,
+        "name": "Golden Breeze",
+        "longDescription": "Certified gold, certified amphibious!",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "160_large_1.png",
+            "smallSrc": "160_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 100000,
+        "lastModified": 1618425858
+    },
+    {
+        "id": 161,
+        "carID": 161,
+        "name": "B.U.S.",
+        "longDescription": "An old school bus turned hotrod. Now you’ll never have to worry about getting to school late again!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "161_large_1.png",
+            "smallSrc": "161_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 450000,
+        "lastModified": 1653496838
+    },
+    {
+        "id": 162,
+        "carID": 162,
+        "name": "S'cool B.U.S.",
+        "longDescription": "A souped-up B.U.S. with a rocket-propelled engine! This bus takes the quickest route to school – straight down the drag strip!",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "162_large_1.png",
+            "smallSrc": "162_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 4200000,
+        "lastModified": 1649290222
+    },
+    {
+        "id": 163,
+        "carID": 163,
+        "name": "Konirra AU-79",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "163_large_1.png",
+            "smallSrc": "163_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 1000000,
+        "lastModified": 1620065952
+    },
+    {
+        "id": 164,
+        "carID": 164,
+        "name": "The Underachiever",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "164_large_1.png",
+            "smallSrc": "164_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 500000,
+        "lastModified": 1618425792
+    },
+    {
+        "id": 165,
+        "carID": 165,
+        "name": "The Overachiever",
+        "longDescription": "“Do I have all my school supplies ready? Let’s see... Pencils? Check. Spiral notebook? Check. Car? Double-check!”",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "165_large_1.png",
+            "smallSrc": "165_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 876000,
+        "lastModified": 1620434543
+    },
+    {
+        "id": 166,
+        "carID": 166,
+        "name": "The Wildflower",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "166_large_1.png",
+            "smallSrc": "166_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 35000000,
+        "lastModified": 1618425759
+    },
+    {
+        "id": 167,
+        "carID": 167,
+        "name": "Shimura Jolly RS",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "167_large_1.png",
+            "smallSrc": "167_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 250000,
+        "lastModified": 1620065974
+    },
+    {
+        "id": 168,
+        "carID": 168,
+        "name": "Shimura Jolly GTX LG",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "168_large_1.png",
+            "smallSrc": "168_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 500000,
+        "lastModified": 1620065981
+    },
+    {
+        "id": 169,
+        "carID": 169,
+        "name": "The Goldray",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "169_large_1.png",
+            "smallSrc": "169_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 100000,
+        "lastModified": 1618425239
+    },
+    {
+        "id": 170,
+        "carID": 170,
+        "name": "can hav nt g0ld plx?",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "170_large_1.png",
+            "smallSrc": "170_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 999,
+        "lastModified": 1637343536
+    },
+    {
+        "id": 171,
+        "carID": 171,
+        "name": "Liberty Wraptor",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "171_large_1.png",
+            "smallSrc": "171_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 750000,
+        "lastModified": 1620065992
+    },
+    {
+        "id": 172,
+        "carID": 172,
+        "name": "Travis' Truck",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "172_large_1.png",
+            "smallSrc": "172_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 12251987,
+        "lastModified": 1637343638
+    },
+    {
+        "id": 173,
+        "carID": 173,
+        "name": "Liberty Wraptor GG",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "173_large_1.png",
+            "smallSrc": "173_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 3000000,
+        "lastModified": 1620066003
+    },
+    {
+        "id": 174,
+        "carID": 174,
+        "name": "The Silent Knight",
+        "longDescription": "An XMaxx’d Gotham in proper festive ugly sweater attire, with an engine so silent your opponents won’t even hear you pass ‘em!",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "174_large_1.png",
+            "smallSrc": "174_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 15000000,
+        "lastModified": 1649290238
+    },
+    {
+        "id": 175,
+        "carID": 175,
+        "name": "NT Gold",
+        "options": {
+            "rarity": "legendary",
+            "tweaks": {
+                "rotation": -0.5
+            },
+            "largeSrc": "175_large_1.png",
+            "smallSrc": "175_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 999,
+        "lastModified": 1637343633
+    },
+    {
+        "id": 176,
+        "carID": 176,
+        "name": "Corsa Tiesto",
+        "longDescription": "A concept car turned limited release production vehicle, the Tiesto can do 0-60 in 2.5 seconds. Although it doesn’t have AC, it does have hexagonal engine cooling ports!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "176_large_1.png",
+            "smallSrc": "176_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 650000,
+        "lastModified": 1648243907
+    },
+    {
+        "id": 177,
+        "assetKey": "blitz_cobalt1",
+        "carID": 177,
+        "name": "Blitz Cobalt",
+        "longDescription": "This special-edition Blitz from Season 21 is flashiness incarnate. Perfect for anyone who likes to show off at the Start line.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "blitz_cobalt1_large.png",
+            "smallSrc": "blitz_cobalt1_small.png"
+        },
+        "enterSound": "sport",
+        "price": 400000,
+        "lastModified": 1648243919
+    },
+    {
+        "id": 178,
+        "carID": 178,
+        "name": "Corsa 123Ω",
+        "longDescription": "A super sleek car, with an equally sleek glossy finish to match. This Season 21 unlock makes even passersby feel cooler, just by looking at it.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "178_large_1.png",
+            "smallSrc": "178_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 500000,
+        "lastModified": 1620430396
+    },
+    {
+        "id": 179,
+        "carID": 179,
+        "name": "Liberty Travosaurus",
+        "longDescription": "Liberty Motors' first production race truck!",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "179_large_1.png",
+            "smallSrc": "179_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 1337000,
+        "lastModified": 1618425078
+    },
+    {
+        "id": 180,
+        "assetKey": "brightidea",
+        "carID": 180,
+        "name": "Fonicci Luminosa",
+        "longDescription": "This famed model from Fonicci is one of the brightest examples of performance and style that Nitro Speedway has ever seen.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "brightidea_large.png",
+            "smallSrc": "brightidea_small.png",
+            "assetKey": "brightidea"
+        },
+        "enterSound": "sport",
+        "price": 550000,
+        "lastModified": 1649290253
+    },
+    {
+        "id": 181,
+        "carID": 181,
+        "name": "Sandstorm",
+        "longDescription": "This fiery sandrail from Season 22 is ready to light up Seaside Rally with a flurry of speed!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "181_large_1.png",
+            "smallSrc": "181_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 550000,
+        "lastModified": 1648243933
+    },
+    {
+        "id": 182,
+        "carID": 182,
+        "name": "The Jury",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "182_large_1.png",
+            "smallSrc": "182_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 800000,
+        "lastModified": 1618345208
+    },
+    {
+        "id": 183,
+        "carID": 183,
+        "name": "The Goldfish",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "183_large_1.png",
+            "smallSrc": "183_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 100000,
+        "lastModified": 1618345001
+    },
+    {
+        "id": 184,
+        "carID": 184,
+        "name": "Shock Value",
+        "longDescription": "This battery-powered DIY racer from Back 2 School 2019 can rival even the most top-of-the-line supercars on the track. Shocker!",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "184_large_1.png",
+            "smallSrc": "184_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 750000,
+        "lastModified": 1648243945
+    },
+    {
+        "id": 185,
+        "carID": 185,
+        "name": "Gold Standard",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "185_large_1.png",
+            "smallSrc": "185_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 250000,
+        "lastModified": 1618344981
+    },
+    {
+        "id": 186,
+        "carID": 186,
+        "name": "Solar Roller",
+        "longDescription": "Powered entirely by the sun and great for straight line racing in the most sustainable fashion.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "186_large_1.png",
+            "smallSrc": "186_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 120000,
+        "lastModified": 1618344973
+    },
+    {
+        "id": 187,
+        "carID": 187,
+        "name": "H2GO",
+        "longDescription": "What can you do with a propeller, a water bottle, and a battery? Hit the track, of course!",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "187_large_1.png",
+            "smallSrc": "187_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 250000,
+        "lastModified": 1622258960
+    },
+    {
+        "id": 188,
+        "assetKey": "taterpowered",
+        "carID": 188,
+        "name": "The DevasTater",
+        "longDescription": "This ain't no spuddering mash of a car(b)... it's so starchly appeeling that all the spectaters will be rooting for it!",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "taterpowered_large.png",
+            "smallSrc": "taterpowered_small.png"
+        },
+        "enterSound": "sport",
+        "price": 500000,
+        "lastModified": 1629476632
+    },
+    {
+        "id": 189,
+        "carID": 189,
+        "name": "Creepy Crawler",
+        "longDescription": "EEK! This spider-striped GT is sure to send chills rolling straight down your spine. Let’s just hope there are no arachnophobes around…",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "189_large_1.png",
+            "smallSrc": "189_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 450000,
+        "lastModified": 1649290270
+    },
+    {
+        "id": 190,
+        "carID": 190,
+        "name": "Velocité Goblin",
+        "longDescription": "A souped-up Toad made with old Halloween decorations; this recycled car has been given a second life, as well as a sizeable following to boot.",
+        "options": {
+            "rarity": "common",
+            "largeSrc": "190_large_1.png",
+            "smallSrc": "190_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 55000,
+        "lastModified": 1620066050
+    },
+    {
+        "id": 191,
+        "carID": 191,
+        "name": "Something Wicked",
+        "longDescription": "A custom re-engineered Flux, stricken with purple flames for maximum intimidation factor! Something Wicked this way comes…",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "191_large_1.png",
+            "smallSrc": "191_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 375000,
+        "lastModified": 1649290281
+    },
+    {
+        "id": 192,
+        "carID": 192,
+        "name": "Frosted Roller",
+        "longDescription": "Iced with lots of XMaxx decorations (as well as a cute polar bear), this classic cookie car crumbles the competition!",
+        "options": {
+            "rarity": "rare",
+            "tweaks": {
+                "flipY": true
+            },
+            "largeSrc": "192_large_1.png",
+            "smallSrc": "192_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 750000,
+        "lastModified": 1648243961
+    },
+    {
+        "id": 193,
+        "carID": 193,
+        "name": "Gingerbread GT",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "193_large_1.png",
+            "smallSrc": "193_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 10000,
+        "lastModified": 1618344870
+    },
+    {
+        "id": 194,
+        "carID": 194,
+        "name": "Holiday Heat",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "194_large_1.png",
+            "smallSrc": "194_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 10000,
+        "lastModified": 1618344850
+    },
+    {
+        "id": 195,
+        "carID": 195,
+        "name": "Cold Snap",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "195_large_1.png",
+            "smallSrc": "195_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 10000,
+        "lastModified": 1618344828
+    },
+    {
+        "id": 196,
+        "carID": 196,
+        "name": "The Snowy Knight",
+        "longDescription": "He's the yeti Gotham deserves.",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "196_large_1.png",
+            "smallSrc": "196_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 4500000,
+        "lastModified": 1631383647
+    },
+    {
+        "id": 197,
+        "assetKey": "rocketklaus",
+        "carID": 197,
+        "name": "The Rocket Klaus",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "rocketklaus_large.png",
+            "smallSrc": "rocketklaus_small.png"
+        },
+        "enterSound": "sport",
+        "price": 10000,
+        "lastModified": 1637773703
+    },
+    {
+        "id": 198,
+        "carID": 198,
+        "name": "Golden Ticket",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "198_large_1.png",
+            "smallSrc": "198_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 10000,
+        "lastModified": 1618344765
+    },
+    {
+        "id": 199,
+        "carID": 199,
+        "name": "Liberty Wavebreaker",
+        "longDescription": "The Wavebreaker is the ultimate beach cruisin’ four by four.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "199_large_1.png",
+            "smallSrc": "199_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 150000,
+        "lastModified": 1648243974
+    },
+    {
+        "id": 200,
+        "carID": 200,
+        "name": "Liberty Broadwing",
+        "longDescription": "The Liberty Broadwing is an American-made V12 with power to burn.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "200_large_1.png",
+            "smallSrc": "200_small_1.png"
+        },
+        "enterSound": "muscle",
+        "price": 275000,
+        "lastModified": 1648243986
+    },
+    {
+        "id": 201,
+        "assetKey": "nye",
+        "carID": 201,
+        "name": "Blitz Prism i20",
+        "longDescription": "Fusion powered, joy bringing, speedy bundle of glitter on wheels!",
+        "options": {
+            "key": "nye",
+            "rarity": "legendary",
+            "largeSrc": "nye_large.png",
+            "smallSrc": "nye_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 2000000,
+        "lastModified": 1619017554,
+        "publicKey": "16896777dba91c87c666fed385c963ff7b69b352"
+    },
+    {
+        "id": 202,
+        "carID": 202,
+        "name": "Flux Heartbreaker",
+        "longDescription": "Love is in the air…and so is burnt rubber! This cupid car is ready to spread Valentine’s Day spirit all over the track.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "202_large_1.png",
+            "smallSrc": "202_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 375000,
+        "lastModified": 1648244003
+    },
+    {
+        "id": 203,
+        "carID": 203,
+        "name": "Liberty Danger 9 ",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "203_large_1.png",
+            "smallSrc": "203_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 10000,
+        "lastModified": 1620066095
+    },
+    {
+        "id": 204,
+        "carID": 204,
+        "name": "The Wild 500",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "204_large_1.png",
+            "smallSrc": "204_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 50000000,
+        "lastModified": 1618344232
+    },
+    {
+        "id": 205,
+        "carID": 205,
+        "name": "Shimura Tigreen",
+        "longDescription": "Neon Spring’s first unlockable car makes its return. But don’t let its name fool you: the Tigreen can be repainted any color you like!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "205_large_1.png",
+            "smallSrc": "205_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 475000,
+        "lastModified": 1648244014
+    },
+    {
+        "id": 206,
+        "carID": 206,
+        "name": "X1 Eclipse",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "206_large_1.png",
+            "smallSrc": "206_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 10000,
+        "lastModified": 1618344209
+    },
+    {
+        "id": 207,
+        "assetKey": "grid",
+        "carID": 207,
+        "name": "Corsa Error 500",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "grid_large.png",
+            "smallSrc": "grid_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 2125000,
+        "lastModified": 1651359066,
+        "publicKey": "cdfb6bdb1b677e3c4da9af3d34de20618024b2bb"
+    },
+    {
+        "id": 208,
+        "carID": 208,
+        "name": "Vapor",
+        "longDescription": "Into the sunset we fly!",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "208_large_1.png",
+            "smallSrc": "208_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 650000,
+        "lastModified": 1618344166
+    },
+    {
+        "id": 209,
+        "carID": 209,
+        "name": "9 Bit Racer",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "209_large_1.png",
+            "smallSrc": "209_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 2100000,
+        "lastModified": 1652573121
+    },
+    {
+        "id": 210,
+        "carID": 210,
+        "name": "Chompus' Wild Ride",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "210_large_1.png",
+            "smallSrc": "210_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 10000,
+        "lastModified": 1618344143
+    },
+    {
+        "id": 211,
+        "carID": 211,
+        "name": "Whiplash XS",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "211_large_1.png",
+            "smallSrc": "211_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 10000,
+        "lastModified": 1618344125
+    },
+    {
+        "id": 212,
+        "carID": 212,
+        "name": "The Hydro Planer",
+        "longDescription": "First seen in Season 28, get your watersports on to the maximus with this racing-grade innertube. (B.O.A.T. not included)",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "212_large_1.png",
+            "smallSrc": "212_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 375000,
+        "lastModified": 1618344117
+    },
+    {
+        "id": 213,
+        "carID": 213,
+        "name": "Timber Speeder",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "213_large_1.png",
+            "smallSrc": "213_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 10000,
+        "lastModified": 1618344096
+    },
+    {
+        "id": 214,
+        "carID": 214,
+        "name": "Wampus' Waffle Wagon",
+        "longDescription": "Have a bite of the Wampus’ mouth-watering waffle recipe! Have your cash ready up front, though – those waffles sure ain’t cheap.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "214_large_1.png",
+            "smallSrc": "214_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 375000,
+        "lastModified": 1649291572
+    },
+    {
+        "id": 215,
+        "carID": 215,
+        "name": "Webmobile Spider",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "215_large_1.png",
+            "smallSrc": "215_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 10000,
+        "lastModified": 1618344075
+    },
+    {
+        "id": 216,
+        "carID": 216,
+        "name": "Winson Evar",
+        "longDescription": "Originally from Season 29, this stylish estate vehicle exudes coolness at the Start line.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "216_large_1.png",
+            "smallSrc": "216_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 345000,
+        "lastModified": 1620434580
+    },
+    {
+        "id": 217,
+        "carID": 217,
+        "name": "SpaceZ Crew Draco",
+        "longDescription": "Hit escape velocity on the track with this specialized crew capsule.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "217_large_1.png",
+            "smallSrc": "217_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 475000,
+        "lastModified": 1620924207
+    },
+    {
+        "id": 218,
+        "carID": 218,
+        "name": "Flux Sienna",
+        "longDescription": "An elite supercar with a dedicated cult following that’s equally as elite. The Flux Sienna is truly top-of-the-line.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "218_large_1.png",
+            "smallSrc": "218_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 775000,
+        "lastModified": 1649290321
+    },
+    {
+        "id": 219,
+        "carID": 219,
+        "name": "Calculatron",
+        "longDescription": "Sumthing cool that was first added in Season 29. Opinions aren't divided: this car has no minuses!",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "219_large_1.png",
+            "smallSrc": "219_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 575000,
+        "lastModified": 1622258720
+    },
+    {
+        "id": 220,
+        "assetKey": "furze_tank",
+        "carID": 220,
+        "name": "Screw Tank",
+        "options": {
+            "key": "furze_tank",
+            "rarity": "epic",
+            "tweaks": [],
+            "brandID": "colin-furze",
+            "brandUrl": "https://www.youtube.com/watch?v=4hI22E9LcY0",
+            "largeSrc": "220_large_1.png",
+            "smallSrc": "220_small_1.png",
+            "brandName": "Colin Furze",
+            "isAnimated": 1
+        },
+        "enterSound": "muscle",
+        "price": 10000,
+        "lastModified": 1618861578,
+        "publicKey": "6c1ea87b74da6682b7b918cb27ef42af1db9e799"
+    },
+    {
+        "id": 221,
+        "assetKey": "furze_hover_bike",
+        "carID": 221,
+        "name": "Hoverbike",
+        "longDescription": "Colin Furze’s own homemade hoverbike! An unhinged flying bike with total DIY off-the-ground power.",
+        "options": {
+            "key": "furze_hover_bike",
+            "rarity": "epic",
+            "tweaks": [],
+            "brandID": "colin-furze",
+            "brandUrl": "https://www.youtube.com/watch?v=soxxPyaAT1k",
+            "largeSrc": "221_large_1.png",
+            "smallSrc": "221_small_1.png",
+            "brandName": "Colin Furze",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 860000,
+        "lastModified": 1649290334,
+        "publicKey": "35affbe07a929c85550fd916958aaf66bb5417ee"
+    },
+    {
+        "id": 222,
+        "assetKey": "furze_jet_bike",
+        "carID": 222,
+        "name": "Jet Bicycle",
+        "options": {
+            "key": "furze_jet_bike",
+            "rarity": "epic",
+            "tweaks": [],
+            "brandID": "colin-furze",
+            "brandUrl": "https://www.youtube.com/watch?v=bKHz7wOjb9w",
+            "largeSrc": "222_large_1.png",
+            "smallSrc": "222_small_1.png",
+            "brandName": "Colin Furze",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 10000,
+        "lastModified": 1618861620,
+        "publicKey": "a04e4f4215b262472ce169b4b16f58271513d153"
+    },
+    {
+        "id": 223,
+        "assetKey": "wrapping_paper_plane",
+        "carID": 223,
+        "name": "Wrapped Flyer",
+        "options": {
+            "key": "wrapping_paper_plane",
+            "rarity": "legendary",
+            "largeSrc": "223_large_1.png",
+            "smallSrc": "223_small_1.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 10000,
+        "lastModified": 1637344108,
+        "publicKey": "86a0af70fe462eaf00d7129d2d2e2e7d27b98d25"
+    },
+    {
+        "id": 224,
+        "assetKey": "christmas_tank",
+        "carID": 224,
+        "name": "The Festivitank",
+        "options": {
+            "key": "christmas_tank",
+            "rarity": "legendary",
+            "largeSrc": "224_large_1.png",
+            "smallSrc": "224_small_1.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 10000,
+        "lastModified": 1618343916,
+        "publicKey": "ee29b30cbeea9fc0fc6bd8a2854c024171075553"
+    },
+    {
+        "id": 227,
+        "assetKey": "jet_powered_truck",
+        "carID": 227,
+        "name": "Maxxbilt Jetro",
+        "longDescription": "“Well, we had an extra jet engine, and one thing led to another… Suddenly we were doing 195 down the track!”",
+        "options": {
+            "key": "jet_powered_truck",
+            "rarity": "epic",
+            "largeSrc": "jet_powered_truck_large.png",
+            "smallSrc": "jet_powered_truck_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "muscle",
+        "price": 7000000,
+        "lastModified": 1648244027,
+        "publicKey": "b650173cf06dc0c0a6c67ea941614c301be3e1dc"
+    },
+    {
+        "id": 228,
+        "assetKey": "vengeance",
+        "carID": 228,
+        "name": "Corsa Vengeance",
+        "longDescription": "Light up the track with 64gb of unparalleled speed! RGB is scientifically proven to make you go faster!",
+        "options": {
+            "key": "vengeance",
+            "rarity": "legendary",
+            "largeSrc": "vengeance_large.png",
+            "smallSrc": "vengeance_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "muscle",
+        "price": 3500000,
+        "lastModified": 1620066193,
+        "publicKey": "d9fc8bd86b52b87277a5238e073f0bc4b446d9f7"
+    },
+    {
+        "id": 230,
+        "assetKey": "x2",
+        "carID": 230,
+        "name": "X2 Eclipse",
+        "longDescription": "Due to the popularity of the X1, Koromoto tasked their top designers with creating an even faster model, dubbed the X2 Eclipse.",
+        "options": {
+            "key": "crimson",
+            "rarity": "legendary",
+            "largeSrc": "x2_large.png",
+            "smallSrc": "x2_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 5000000,
+        "lastModified": 1618343350,
+        "publicKey": "e12fc60a09eb12a288c8a6661ef1e5dbb2c614ed"
+    },
+    {
+        "id": 232,
+        "assetKey": "monster_redux",
+        "carID": 232,
+        "name": "Liberty Redux",
+        "longDescription": "Flames have been scientifically proven to make a car go faster!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "monster_redux_large.png",
+            "smallSrc": "monster_redux_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 225000,
+        "lastModified": 1620066216
+    },
+    {
+        "id": 233,
+        "assetKey": "covenant",
+        "carID": 233,
+        "name": "Liberty Leo",
+        "longDescription": "Big boi engine in a big boi car, the Leo roars down the track, leaving only dust and smoke behind.",
+        "options": {
+            "key": "covenant",
+            "rarity": "epic",
+            "largeSrc": "covenant_large.png",
+            "smallSrc": "covenant_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 1200000,
+        "lastModified": 1620066230,
+        "publicKey": "139b91a4664e3e586daeeef22bea2fa33a0e95a6"
+    },
+    {
+        "id": 234,
+        "assetKey": "zonday2021",
+        "carID": 234,
+        "name": "Fonicci Tricolore 2021",
+        "longDescription": "Note to passengers: Keep your hands, arms, and cell phones inside the cockpit at all times.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "zonday2021_large.png",
+            "smallSrc": "zonday2021_small.png",
+            "assetKey": "zonday2021"
+        },
+        "enterSound": "sport",
+        "price": 575000,
+        "lastModified": 1620066243
+    },
+    {
+        "id": 235,
+        "assetKey": "gatorayd",
+        "carID": 235,
+        "name": "Winson Gator Ayd",
+        "longDescription": "The flame dressed Gator Ayd will help you pass a good time while racking up those wins!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "gatorayd_large.png",
+            "smallSrc": "gatorayd_small.png"
+        },
+        "enterSound": "sport",
+        "price": 275000,
+        "lastModified": 1620066276
+    },
+    {
+        "id": 236,
+        "assetKey": "flamerod",
+        "carID": 236,
+        "name": "Liberty Glamrod",
+        "longDescription": "2,250 pounds of small block fury! This baby will make even the most modern sports car feel like a B.O.A.T.",
+        "options": {
+            "key": "flamerod",
+            "rarity": "epic",
+            "largeSrc": "flamerod_large.png",
+            "smallSrc": "flamerod_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 800000,
+        "lastModified": 1629500396,
+        "publicKey": "f932695c8b8cf144c65be76b6ffbbd8d96b377d2"
+    },
+    {
+        "id": 237,
+        "assetKey": "linuxelipse",
+        "carID": 237,
+        "name": "Winson Linux",
+        "longDescription": "Some say the Torvalds family hacked this car, just to see if they could show their stats on the main display.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "linuxelipse_large.png",
+            "smallSrc": "linuxelipse_small.png"
+        },
+        "enterSound": "sport",
+        "price": 445000,
+        "lastModified": 1648244052
+    },
+    {
+        "id": 238,
+        "assetKey": "roadwarriorrally",
+        "carID": 238,
+        "name": "Liberty Warrior NRX",
+        "longDescription": "The upgraded, Rally version of the original Road Warrior. Throw it into a drift and power through the corner.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "roadwarriorrally_large.png",
+            "smallSrc": "roadwarriorrally_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 465000,
+        "lastModified": 1620066323
+    },
+    {
+        "id": 239,
+        "assetKey": "badrax",
+        "carID": 239,
+        "name": "Furious Maxx",
+        "longDescription": "Take a left on Fury road, but stop before you go beyond Thunderdome.",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "badrax_large.png",
+            "smallSrc": "badrax_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "muscle",
+        "price": 3500000,
+        "lastModified": 1629474781,
+        "publicKey": "547d7ac0c1467c948e9002d0fa0544fa03a6527b"
+    },
+    {
+        "id": 241,
+        "assetKey": "n6sport",
+        "carID": 241,
+        "name": "Blitz M6",
+        "longDescription": "The ultimate racing experience.",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "n6sport_large.png",
+            "smallSrc": "n6sport_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 3200000,
+        "lastModified": 1648244065,
+        "publicKey": "f11b74eb94cf1ccaef482062e5706feb6fbe48c2"
+    },
+    {
+        "id": 242,
+        "assetKey": "dominator",
+        "carID": 242,
+        "name": "The Dominator",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "242_large_1.png",
+            "smallSrc": "242_small_1.png",
+            "isAnimated": 1
+        },
+        "enterSound": "muscle",
+        "price": 10000,
+        "lastModified": 1618343163,
+        "publicKey": "e91caa8551673371db2b6aaa513673f9fdeb4d49"
+    },
+    {
+        "id": 243,
+        "carID": 243,
+        "name": "Flux Heartbreaker LV-2",
+        "longDescription": "Breakin' hearts all over the track",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "243_large_1.png",
+            "smallSrc": "243_small_1.png"
+        },
+        "enterSound": "sport",
+        "price": 2100000,
+        "lastModified": 1630685357
+    },
+    {
+        "id": 244,
+        "carID": 244,
+        "name": "Maxxbilt Ice Hauler",
+        "longDescription": "Beat the heat by haulin' ice!",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "4812376r287ds_large.png",
+            "smallSrc": "4812376r287ds_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 1450000,
+        "lastModified": 1625252267
+    },
+    {
+        "id": 245,
+        "assetKey": "thekelvin",
+        "carID": 245,
+        "name": "The Kelvin",
+        "longDescription": "A junkyard gem made with scrap metal, LEDs, and a whole lotta ingenuity.",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "thekelvin_large.png",
+            "smallSrc": "thekelvin_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "muscle",
+        "price": 1380000,
+        "lastModified": 1649290519,
+        "publicKey": "03f26a183bf335fb47a04bb07aebd26531846b64"
+    },
+    {
+        "id": 246,
+        "carID": 246,
+        "name": "Nitreux Vyrus LR",
+        "longDescription": "Upgraded with a bigger engine, an extra turbo, and leather stitched seats, the LR will get you that 'W' with style.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "vyzuadk226_large.png",
+            "smallSrc": "vyzuadk226_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 625000,
+        "lastModified": 1620066357
+    },
+    {
+        "id": 247,
+        "assetKey": "error503",
+        "carID": 247,
+        "name": "Corsa Error 503",
+        "longDescription": "Internal server error, car too epic.",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "error503_large.png",
+            "smallSrc": "error503_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 2500000,
+        "lastModified": 1620066366,
+        "publicKey": "bc162da421854afeb65f36b481f8b706dc5dc3f0"
+    },
+    {
+        "id": 249,
+        "assetKey": "sprinter",
+        "carID": 249,
+        "name": "Shimura Sprinter '90",
+        "longDescription": "Déjà vu! I’ve just been in this race before!",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "sprinter_large.png",
+            "smallSrc": "sprinter_small.png"
+        },
+        "enterSound": "sport",
+        "price": 400000,
+        "lastModified": 1649290352
+    },
+    {
+        "id": 250,
+        "assetKey": "rally",
+        "carID": 250,
+        "name": "Koromoto NRX",
+        "longDescription": "Show your true Hoonigan side with Koromoto's 876 horsepower, rally bred race car, developed with the help of the Nitro Rally eXperimental division.",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "rally_large.png",
+            "smallSrc": "rally_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 2500000,
+        "lastModified": 1618342956,
+        "publicKey": "a50d7e8c1ae870187ec411d9e6f399459861dc4f"
+    },
+    {
+        "id": 251,
+        "assetKey": "msg01",
+        "carID": 251,
+        "name": "Flux M400-R",
+        "longDescription": "The M400-R by Flux Automative is the evolution of the M platform. It has racing stripes - what else do you need to know?",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "msg01_large.png",
+            "smallSrc": "msg01_small.png"
+        },
+        "enterSound": "sport",
+        "price": 625000,
+        "lastModified": 1618342924
+    },
+    {
+        "id": 252,
+        "assetKey": "djcruzer",
+        "carID": 252,
+        "name": "Koromoto DJ Cruiser",
+        "longDescription": "Built for those who crave adventure, the DJ Cruiser has everything you need to conquer your local mountain roads... except a winch. Winch sold separately.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "djcruzer_large.png",
+            "smallSrc": "djcruzer_small.png"
+        },
+        "enterSound": "sport",
+        "price": 260000,
+        "lastModified": 1618342859
+    },
+    {
+        "id": 253,
+        "assetKey": "gtr1",
+        "carID": 253,
+        "name": "Koromoto GT-R",
+        "longDescription": "Japanese performance without the price tag!",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "gtr1_large.png",
+            "smallSrc": "gtr1_small.png"
+        },
+        "enterSound": "sport",
+        "price": 150000,
+        "lastModified": 1618342841
+    },
+    {
+        "id": 254,
+        "assetKey": "gtr50",
+        "carID": 254,
+        "name": "Koromoto GT-R LS",
+        "longDescription": "Euro style, Japanese performance, and Italian attention to detail. The GT-R, evolved.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "gtr50_large.png",
+            "smallSrc": "gtr50_small.png"
+        },
+        "enterSound": "sport",
+        "price": 250000,
+        "lastModified": 1618342816
+    },
+    {
+        "id": 255,
+        "assetKey": "technotruck",
+        "carID": 255,
+        "name": "Stingtec Technotruck",
+        "longDescription": "0-60 in under 3 seconds. Cloaked in bulletproof glass. The ultimate truck for flexing. But beware of sledgehammers.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "technotruck_large.png",
+            "smallSrc": "technotruck_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 2250000,
+        "lastModified": 1648244083
+    },
+    {
+        "id": 256,
+        "assetKey": "fourleafrover",
+        "carID": 256,
+        "name": "Four Leaf Rover",
+        "longDescription": "Green in more ways than one, this off grid exploration machine has a solar-powered cabin and enough sustainable features to live off for months.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "fourleafrover_large.png",
+            "smallSrc": "fourleafrover_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 255000,
+        "lastModified": 1618336005
+    },
+    {
+        "id": 257,
+        "assetKey": "lambouhuh",
+        "carID": 257,
+        "name": "Corsa Iris",
+        "longDescription": "A monstrously modified high performance SUV, for those who like to roll in luxury.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "lambouhuh_large.png",
+            "smallSrc": "lambouhuh_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 550000,
+        "lastModified": 1637343866
+    },
+    {
+        "id": 258,
+        "assetKey": "sprintervapor",
+        "carID": 258,
+        "name": "Sprinter '90 Vapor",
+        "longDescription": "This vaporwave racer looks super familiar! Am I having déjà vu…?",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "sprintervapor_large.png",
+            "smallSrc": "sprintervapor_small.png"
+        },
+        "enterSound": "sport",
+        "price": 500000,
+        "lastModified": 1649290363
+    },
+    {
+        "id": 259,
+        "assetKey": "amphibbtly",
+        "carID": 259,
+        "name": "Winson Track'd",
+        "longDescription": "A little British ingenuity that maybe went a liiiittle bit too far?",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "amphibbtly_large.png",
+            "smallSrc": "amphibbtly_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 2225000,
+        "lastModified": 1629472639,
+        "publicKey": "7c2b34b57b3620c322dfd3a9093d3e5f7b3ad8d6"
+    },
+    {
+        "id": 260,
+        "assetKey": "corsamystica",
+        "carID": 260,
+        "name": "Corsa Mystica",
+        "longDescription": "Corsa didn't create the Mystica, they discovered her.",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "corsamystica_large.png",
+            "smallSrc": "corsamystica_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 4440000,
+        "lastModified": 1637343683,
+        "publicKey": "4f1c1a8661b462c7937629d7c80c9e449149174c"
+    },
+    {
+        "id": 261,
+        "assetKey": "h2ocar",
+        "carID": 261,
+        "name": "Stingtec Marianas",
+        "longDescription": "The Stingtec Marianas amphibious vehicle is rated down to 5,960 fathoms.",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "h2ocar_large.png",
+            "smallSrc": "h2ocar_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 2100000,
+        "lastModified": 1637343840,
+        "publicKey": "09c7e60b360a63200fd8e2ea95261bd5fff27b60"
+    },
+    {
+        "id": 262,
+        "assetKey": "31423rsdvdas",
+        "carID": 262,
+        "name": "Stingtec WaterSki",
+        "longDescription": "Stingtec's entry level personal water craft is a beast on the open ocean.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "31423rsdvdas_large.png",
+            "smallSrc": "31423rsdvdas_small.png"
+        },
+        "enterSound": "sport",
+        "price": 385000,
+        "lastModified": 1631897556
+    },
+    {
+        "id": 263,
+        "assetKey": "32rvascl3",
+        "carID": 263,
+        "name": "Blitz T8 Roadster",
+        "longDescription": "A hybrid electric almost-supercar from Blitz. Flash meets fuel efficiency. A bold statement at the start line.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "32rvascl3_large.png",
+            "smallSrc": "32rvascl3_small.png"
+        },
+        "enterSound": "sport",
+        "price": 525000,
+        "lastModified": 1617978962
+    },
+    {
+        "id": 264,
+        "assetKey": "3214rfdwasc",
+        "carID": 264,
+        "name": "Liberty Demon XRT",
+        "longDescription": "A deranged, mega muscle car that conquers all on the track with over 800 horsepower of drag-racing power. Just barely within the constraints of American road regulations.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "3214rfdwasc_large.png",
+            "smallSrc": "3214rfdwasc_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 250000,
+        "lastModified": 1637343895
+    },
+    {
+        "id": 265,
+        "assetKey": "neon",
+        "carID": 265,
+        "name": "Koromoto GT-R Neon",
+        "longDescription": "With a light array worthy of drifting through Tokyo, this tweaked Koromoto GT-R LS is a stunner on the track.",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "neon_large.png",
+            "smallSrc": "neon_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 2250000,
+        "lastModified": 1618066271,
+        "publicKey": "499dae452eb2c058cc826f7f85c33c2c59de09a4"
+    },
+    {
+        "id": 266,
+        "assetKey": "mongoose",
+        "carID": 266,
+        "name": "Mongoose SU-5",
+        "longDescription": "Discovered in an advanced alien research facility, this state-of-the-art spaceship is certainly capable of handling even the most complicated of tasks.",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "mongoose_large.png",
+            "smallSrc": "mongoose_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 2900000,
+        "lastModified": 1624064014,
+        "publicKey": "a52b9792f00891c3c785a9ff75700ceeb22a41ee"
+    },
+    {
+        "id": 267,
+        "assetKey": "corsamegalodor123",
+        "carID": 267,
+        "name": "Corsa Megalodor",
+        "longDescription": "With a high-performance engine filled with determination and grit, this car's an absolute monster on the track.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "corsamegalodor123_large.png",
+            "smallSrc": "corsamegalodor123_small.png"
+        },
+        "enterSound": "sport",
+        "price": 475000,
+        "lastModified": 1619536388
+    },
+    {
+        "id": 268,
+        "assetKey": "locomotive",
+        "carID": 268,
+        "name": "The Evergreen Steamer",
+        "shortDescription": "National Train Day (May 8)",
+        "longDescription": "The original steam locomotive upon which the Xxpress steamers were built. Capable of crossing the entire country in under 7 days.",
+        "options": {
+            "rarity": "legendary",
+            "tweaks": {
+                "shopScale": 0.8
+            },
+            "largeSrc": "locomotive_large.png",
+            "smallSrc": "locomotive_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "muscle",
+        "price": 2575000,
+        "lastModified": 1637344100,
+        "publicKey": "e2aec1b2412b8318150b4bc3e5e9656d83b08639"
+    },
+    {
+        "id": 269,
+        "assetKey": "jatv1",
+        "carID": 269,
+        "name": "Bozz Juice'd",
+        "longDescription": "A jacked up ATV for bootin' around the beach or the neighborhood.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "jatv1_large.png",
+            "smallSrc": "jatv1_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 1350000,
+        "lastModified": 1629472906
+    },
+    {
+        "id": 270,
+        "assetKey": "jet_boat",
+        "carID": 270,
+        "name": "Stingtec Thunderboat",
+        "longDescription": "Stingtec's entry into the jet boat racing series.",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "jet_boat_large.png",
+            "smallSrc": "jet_boat_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 2900000,
+        "lastModified": 1629472724,
+        "publicKey": "648e0d4e895016fc83bac1c30433e68f09b8cd2d"
+    },
+    {
+        "id": 271,
+        "assetKey": "dunebounder",
+        "carID": 271,
+        "name": "Blitz Dune Bounder",
+        "longDescription": "Nothing better than catching air off dunes.",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "dunebounder_large.png",
+            "smallSrc": "dunebounder_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 1250000,
+        "lastModified": 1629472780
+    },
+    {
+        "id": 272,
+        "assetKey": "corsapunti",
+        "carID": 272,
+        "name": "Corsa Contacc",
+        "longDescription": "A polygonal masterpiece of a concept car, straight from the minds of Corsa’s top designers.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "corsapunti_large.png",
+            "smallSrc": "corsapunti_small.png"
+        },
+        "enterSound": "sport",
+        "price": 2845000,
+        "lastModified": 1649290374
+    },
+    {
+        "id": 273,
+        "assetKey": "lifeguard",
+        "carID": 273,
+        "name": "Liberty Rescue",
+        "longDescription": "Patrolling the beaches of Seaside Rally and beyond.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "lifeguard_large.png",
+            "smallSrc": "lifeguard_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 1420000,
+        "lastModified": 1629472364,
+        "publicKey": "7906b1784621d54be3a9b5fee15a89bede110d6c"
+    },
+    {
+        "id": 274,
+        "assetKey": "libertyog",
+        "carID": 274,
+        "name": "Hydrova OG",
+        "longDescription": "The embodiment of the word “rugged.”",
+        "options": {
+            "rarity": "uncommon",
+            "largeSrc": "libertyog_large.png",
+            "smallSrc": "libertyog_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 1941000,
+        "lastModified": 1629472829
+    },
+    {
+        "id": 276,
+        "assetKey": "fluxmemo",
+        "carID": 276,
+        "name": "Flux Memo",
+        "longDescription": "Jot this down - the stylish Memo makes all the haters lose their composition!",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "fluxmemo_large.png",
+            "smallSrc": "fluxmemo_small.png"
+        },
+        "enterSound": "sport",
+        "price": 750000,
+        "lastModified": 1628088183
+    },
+    {
+        "id": 277,
+        "assetKey": "fully_leaded",
+        "carID": 277,
+        "name": "Fully Leaded",
+        "longDescription": "Graphite-powered and ready to roll!",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "fully_leaded_large.png",
+            "smallSrc": "fully_leaded_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 1000000,
+        "lastModified": 1629551878,
+        "publicKey": "6dba14900003ad4ef632875001a0f1829eeab940"
+    },
+    {
+        "id": 278,
+        "assetKey": "kce",
+        "carID": 278,
+        "name": "Konirra Celebrar EVO",
+        "longDescription": "Ready to celebrate any occasion!",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "kce_large.png",
+            "smallSrc": "kce_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 900000,
+        "lastModified": 1629551830,
+        "publicKey": "e3e8b86532ed787c05acca3e3b116bf438e3ce4f"
+    },
+    {
+        "id": 279,
+        "assetKey": "rulebreaker",
+        "carID": 279,
+        "name": "Koromoto Rulebreaker",
+        "longDescription": "Immeasurably epic!",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "rulebreaker_large.png",
+            "smallSrc": "rulebreaker_small.png"
+        },
+        "enterSound": "sport",
+        "price": 400000,
+        "lastModified": 1628088436
+    },
+    {
+        "id": 280,
+        "assetKey": "jet_bus",
+        "carID": 280,
+        "name": "S’cool B.U.S. Wildn",
+        "longDescription": "Unlawful to pass when jet engines blast",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "jet_bus_large.png",
+            "smallSrc": "jet_bus_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "muscle",
+        "price": 800000,
+        "lastModified": 1637344091,
+        "publicKey": "4cb182dd430c7e8904730033d21b0b821812fc5d"
+    },
+    {
+        "id": 281,
+        "assetKey": "scream",
+        "carID": 281,
+        "name": "Evergreen Screamer",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "scream_large.png",
+            "smallSrc": "scream_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "muscle",
+        "price": 4250000,
+        "lastModified": 1637344084,
+        "publicKey": "903b28962326e4ee7459565aca1a4cfef4d37917"
+    },
+    {
+        "id": 282,
+        "assetKey": "ghoul_bus",
+        "carID": 282,
+        "name": "Ghoul Bus",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "ghoul_bus_large.png",
+            "smallSrc": "ghoul_bus_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 4500000,
+        "lastModified": 1637343983,
+        "publicKey": "fc4fc86ca2062042a23fca1c175aee5d3a06e377"
+    },
+    {
+        "id": 283,
+        "assetKey": "blitz_935",
+        "carID": 283,
+        "name": "Blitz 935 Sunset",
+        "longDescription": "Kick it into autumn overdrive in Blitz's Sunset model, featuring top performance, and total fall vibes.",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "blitz_935_large.png",
+            "smallSrc": "blitz_935_small.png"
+        },
+        "enterSound": "sport",
+        "price": 3500000,
+        "lastModified": 1652386600
+    },
+    {
+        "id": 284,
+        "assetKey": "shopping_cart",
+        "carID": 284,
+        "name": "Cartrod",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "shopping_cart_large.png",
+            "smallSrc": "shopping_cart_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "muscle",
+        "price": 1750000,
+        "lastModified": 1634479174,
+        "publicKey": "f9b686a84ad5f20f685f9b3859f4d57f8f2b29e0"
+    },
+    {
+        "id": 285,
+        "assetKey": "haytruck",
+        "carID": 285,
+        "name": "Hay, a Truck",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "haytruck_large.png",
+            "smallSrc": "haytruck_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 2100000,
+        "lastModified": 1634479406
+    },
+    {
+        "id": 286,
+        "assetKey": "tractor",
+        "carID": 286,
+        "name": "Harvestall Tractor",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "tractor_large.png",
+            "smallSrc": "tractor_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "muscle",
+        "price": 1600000,
+        "lastModified": 1634479156,
+        "publicKey": "0d33af5d9ec0971488d0f9e6f31cc61dbaf65d6a"
+    },
+    {
+        "id": 287,
+        "assetKey": "libertys7a",
+        "carID": 287,
+        "name": "Liberty S7",
+        "longDescription": "The Liberty S7 is an all-American attention-grabbing performance machine.",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "libertys7a_large.png",
+            "smallSrc": "libertys7a_small.png"
+        },
+        "enterSound": "sport",
+        "price": 4500000,
+        "lastModified": 1652386559
+    },
+    {
+        "id": 288,
+        "assetKey": "tbutler56a",
+        "carID": 288,
+        "name": "T. Butler #56",
+        "longDescription": "Let's go, Butler!",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "tbutler56a_large.png",
+            "smallSrc": "tbutler56a_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 4500000,
+        "lastModified": 1636151436
+    },
+    {
+        "id": 289,
+        "assetKey": "abutleer12",
+        "carID": 289,
+        "name": "A. Butler #12",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "abutleer12_large.png",
+            "smallSrc": "abutleer12_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 4500000,
+        "lastModified": 1636151430
+    },
+    {
+        "id": 290,
+        "assetKey": "acrook53",
+        "carID": 290,
+        "name": "A. Crook #3",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "acrook53_large.png",
+            "smallSrc": "acrook53_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 4500000,
+        "lastModified": 1636151424
+    },
+    {
+        "id": 291,
+        "assetKey": "ksmith",
+        "carID": 291,
+        "name": "K. Smith #23",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "ksmith_large.png",
+            "smallSrc": "ksmith_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 4500000,
+        "lastModified": 1636151417
+    },
+    {
+        "id": 292,
+        "assetKey": "hbonacci8",
+        "carID": 292,
+        "name": "H. Bonacci #8",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "hbonacci8_large.png",
+            "smallSrc": "hbonacci8_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 4500000,
+        "lastModified": 1636151410
+    },
+    {
+        "id": 293,
+        "assetKey": "kosburn21",
+        "carID": 293,
+        "name": "K. Osburn #21",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "kosburn21_large.png",
+            "smallSrc": "kosburn21_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 4500000,
+        "lastModified": 1636151402
+    },
+    {
+        "id": 294,
+        "assetKey": "minifiretruck",
+        "carID": 294,
+        "name": "Mini Firetruck",
+        "longDescription": "A first responder vehicle sized for city streets and back alleys.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "minifiretruck_large.png",
+            "smallSrc": "minifiretruck_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 850000,
+        "lastModified": 1636154683
+    },
+    {
+        "id": 297,
+        "assetKey": "elfmobile",
+        "carID": 297,
+        "name": "Elfmobile '21",
+        "longDescription": "Treat yo’-elf to this epic XMaxx Gotham! Dressed up in festive livery (and jingle bells, of course), and ready to secure the win.",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "elfmobile_large.png",
+            "smallSrc": "elfmobile_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 11500000,
+        "lastModified": 1649290387
+    },
+    {
+        "id": 298,
+        "assetKey": "candido",
+        "carID": 298,
+        "name": "Fonicci Candido F8",
+        "longDescription": "Stroll through the snow with ease in Fonicci's top-of-the-line candy cane cruiser.",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "candido_large.png",
+            "smallSrc": "candido_small.png"
+        },
+        "enterSound": "sport",
+        "price": 2500000,
+        "lastModified": 1652387193
+    },
+    {
+        "id": 299,
+        "assetKey": "party_sleigh",
+        "carID": 299,
+        "name": "Party Sleigh Neon",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "party_sleigh_large.png",
+            "smallSrc": "party_sleigh_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 2900000,
+        "lastModified": 1637813196,
+        "publicKey": "129d008c9c7386a716bbac71e2f90474250bddcf"
+    },
+    {
+        "id": 300,
+        "assetKey": "lit_train",
+        "carID": 300,
+        "name": "Lit Locomotive",
+        "longDescription": "Once this festive train's on the track, there's no stopping it from spreading festive vibes.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "lit_train_large.png",
+            "smallSrc": "lit_train_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 1750000,
+        "lastModified": 1637800236,
+        "publicKey": "d88200da165e3054cffa95924d4ae308442f092f"
+    },
+    {
+        "id": 301,
+        "assetKey": "snowcat",
+        "carID": 301,
+        "name": "Snowcat Luxe",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "snowcat_large.png",
+            "smallSrc": "snowcat_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "muscle",
+        "price": 3250000,
+        "lastModified": 1637773304,
+        "publicKey": "1bad69605db1379a1e105568d15ea1e95a08d518"
+    },
+    {
+        "id": 302,
+        "assetKey": "racing_led",
+        "carID": 302,
+        "name": "LED Streetracer",
+        "longDescription": "Faster, cooler, and brighter than any other car.",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "racing_led_large.png",
+            "smallSrc": "racing_led_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 950000,
+        "lastModified": 1637800226,
+        "publicKey": "e001c4298f64d6627164e6964348d35c6430f4e9"
+    },
+    {
+        "id": 303,
+        "assetKey": "nadaracer",
+        "carID": 303,
+        "name": "Nada Racer",
+        "longDescription": "Nada's debut race car, maxx'd out and ready to earn you tons of wins (and bragging rights!)",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "nadaracer_large.png",
+            "smallSrc": "nadaracer_small.png"
+        },
+        "enterSound": "sport",
+        "price": 875000,
+        "lastModified": 1652387144
+    },
+    {
+        "id": 304,
+        "assetKey": "panoz",
+        "carID": 304,
+        "name": "Blitz Esperante",
+        "longDescription": "A supercar born from the track, but with a color changing paint scheme made for the street.",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "panoz_large.png",
+            "smallSrc": "panoz_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 2100000,
+        "lastModified": 1643308555,
+        "publicKey": "eb4d85307ebd3517c7f729064b243a65a416fd71"
+    },
+    {
+        "id": 305,
+        "assetKey": "heartbox",
+        "carID": 305,
+        "name": "Heart-Shaped Car",
+        "longDescription": "Don't misplace the key to this heart hot rod!",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "heartbox_large.png",
+            "smallSrc": "heartbox_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 1100000,
+        "lastModified": 1643308929,
+        "publicKey": "b7a3a88b70cca82c595a8138608bcc60cfd7f3ca"
+    },
+    {
+        "id": 306,
+        "assetKey": "candycar",
+        "carID": 306,
+        "name": "Fonicci Zucchero",
+        "longDescription": "The sweetest prototype ever made by the Fonicci brand.",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "candycar_large.png",
+            "smallSrc": "candycar_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 3250000,
+        "lastModified": 1643309048,
+        "publicKey": "5fdd58825a5c8e3753e12c5f022ed2ec66a3b8fe"
+    },
+    {
+        "id": 307,
+        "assetKey": "icecreamtruck321432",
+        "carID": 307,
+        "name": "Ice Cream Truck",
+        "longDescription": "Perhaps a bit early for summer, but who doesn't love ice cream?!",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "icecreamtruck321432_large.png",
+            "smallSrc": "icecreamtruck321432_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 850000,
+        "lastModified": 1643309193
+    },
+    {
+        "id": 308,
+        "assetKey": "1232fqsd",
+        "carID": 308,
+        "name": "Bozz Advent",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "1232fqsd_large.png",
+            "smallSrc": "1232fqsd_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 1500000,
+        "lastModified": 1651260114
+    },
+    {
+        "id": 309,
+        "assetKey": "9678sdafd",
+        "carID": 309,
+        "name": "Hydrova Razorback",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "9678sdafd_large.png",
+            "smallSrc": "9678sdafd_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 3250000,
+        "lastModified": 1651524556
+    },
+    {
+        "id": 310,
+        "assetKey": "supercarrier",
+        "carID": 310,
+        "name": "Stingtec x427 Super",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "supercarrier_large.png",
+            "smallSrc": "supercarrier_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 4500000,
+        "lastModified": 1653497447,
+        "publicKey": "d511f4ee398f4ee92833f1dc276b3add92ec521c"
+    },
+    {
+        "id": 311,
+        "assetKey": "radon620c",
+        "carID": 311,
+        "name": "Radon 620",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "radon620c_large.png",
+            "smallSrc": "radon620c_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "muscle",
+        "price": 6500000,
+        "lastModified": 1651265602,
+        "publicKey": "12297c7479b3fd30296bc775667a4e7339f362e0"
+    },
+    {
+        "id": 312,
+        "assetKey": "manta",
+        "carID": 312,
+        "name": "Stingtec Manta",
+        "longDescription": "Designed in 2114, the Manta Stingtec suddenly showed up in The Wampus' garage one day...",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "manta_large.png",
+            "smallSrc": "manta_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "muscle",
+        "price": 3500000,
+        "lastModified": 1651623950,
+        "publicKey": "3c6ba1ada2c43d29d0921cff9b3e7eb9a6154e3a"
+    },
+    {
+        "id": 313,
+        "assetKey": "flowerpower",
+        "carID": 313,
+        "name": "The Wildflower 750",
+        "longDescription": "The humble wildflower is a true force of nature!",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "flowerpower_large.png",
+            "smallSrc": "flowerpower_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 9000000,
+        "lastModified": 1651623958,
+        "publicKey": "f927ed423aef11de2f8f086ae0675c9a37e81749"
+    },
+    {
+        "id": 314,
+        "assetKey": "ice_cream_clown",
+        "carID": 314,
+        "name": "Sour Truck",
+        "longDescription": "TBD",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "ice_cream_clown_large.png",
+            "smallSrc": "ice_cream_clown_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "muscle",
+        "price": 2750000,
+        "lastModified": 1654275013,
+        "publicKey": "ca1270764cd82fe5cab6050b5be49a604b710072"
+    },
+    {
+        "id": 315,
+        "assetKey": "coldsnap",
+        "carID": 315,
+        "name": "Corsa Tiesto \"Coldsnap\"",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "coldsnap_large.png",
+            "smallSrc": "coldsnap_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 5000000,
+        "lastModified": 1656894256,
+        "publicKey": "74881ecaac2bdcb82ae984f81a05c902b6e9ea46"
+    },
+    {
+        "id": 316,
+        "assetKey": "demon",
+        "carID": 316,
+        "name": "Liberty Shellback \"Firestorm\"",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "demon_large.png",
+            "smallSrc": "demon_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 500000,
+        "lastModified": 1656894237,
+        "publicKey": "0a67da1f1c90ecd4fd19e3bb90b147dbc929d27e"
+    },
+    {
+        "id": 317,
+        "assetKey": "tempest",
+        "carID": 317,
+        "name": "Koromoto GT-R \"Tempest\"",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "tempest_large.png",
+            "smallSrc": "tempest_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 500000,
+        "lastModified": 1656894213,
+        "publicKey": "46be1a99c9c9364eda59deb5d7fa2a0d835bb8d3"
+    },
+    {
+        "id": 318,
+        "assetKey": "robo",
+        "carID": 318,
+        "name": "AU-79 Mk. 18",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "robo_large.png",
+            "smallSrc": "robo_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 500000,
+        "lastModified": 1656697461,
+        "publicKey": "13dd1b74ac51fe33aa7b2ebbee6dbc534801b572"
+    },
+    {
+        "id": 319,
+        "assetKey": "sail2132143",
+        "carID": 319,
+        "name": "Winson Velox",
+        "longDescription": "TBD",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "sail2132143_large.png",
+            "smallSrc": "sail2132143_small.png"
+        },
+        "enterSound": "sport",
+        "price": 500000,
+        "lastModified": 1660339133
+    },
+    {
+        "id": 320,
+        "assetKey": "drone_chariot",
+        "carID": 320,
+        "name": "Stingtec DL-XT",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "drone_chariot_large.png",
+            "smallSrc": "drone_chariot_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 1500000,
+        "lastModified": 1660486552,
+        "publicKey": "ef80a119582f168cbae2b647ad796926de117bfd"
+    },
+    {
+        "id": 321,
+        "assetKey": "adfsdsfasd",
+        "carID": 321,
+        "name": "Liberty Model H",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "adfsdsfasd_large.png",
+            "smallSrc": "adfsdsfasd_small.png"
+        },
+        "enterSound": "sport",
+        "price": 2000000,
+        "lastModified": 1660486342
+    },
+    {
+        "id": 322,
+        "assetKey": "time_machine",
+        "carID": 322,
+        "name": "Stingtec Wells GT",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "time_machine_large.png",
+            "smallSrc": "time_machine_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 1500000,
+        "lastModified": 1660486447,
+        "publicKey": "cf01385282c031d80c4f2b15a515b1c676b306c7"
+    },
+    {
+        "id": 323,
+        "assetKey": "ship_of_line",
+        "carID": 323,
+        "name": "S.H.I.P.",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "ship_of_line_large.png",
+            "smallSrc": "ship_of_line_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 2500000,
+        "lastModified": 1660486441,
+        "publicKey": "a03708d3c6c3a93585d116801bec6a7df00f7687"
+    },
+    {
+        "id": 324,
+        "assetKey": "pagani",
+        "carID": 324,
+        "name": "Nitreux Zephyrus",
+        "options": {
+            "rarity": "legendary",
+            "largeSrc": "pagani_large.png",
+            "smallSrc": "pagani_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "sport",
+        "price": 3500000,
+        "lastModified": 1663518772,
+        "publicKey": "7bb578601401faf2cf4e3e7a1ff10f93f9b19eae"
+    },
+    {
+        "id": 325,
+        "assetKey": "hawkins",
+        "carID": 325,
+        "name": "Liberty '81 Chief ST",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "hawkins_large.png",
+            "smallSrc": "hawkins_small.png",
+            "isAnimated": 1
+        },
+        "enterSound": "muscle",
+        "price": 1500000,
+        "lastModified": 1663518494,
+        "publicKey": "f17966244028e675002880647b8ee563bfe73c43"
+    },
+    {
+        "id": 326,
+        "assetKey": "2314asdfsa",
+        "carID": 326,
+        "name": "The Nitro Machine",
+        "options": {
+            "rarity": "rare",
+            "largeSrc": "2314asdfsa_large.png",
+            "smallSrc": "2314asdfsa_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 900000,
+        "lastModified": 1663516210
+    },
+    {
+        "id": 327,
+        "assetKey": "5342tdqwxefd",
+        "carID": 327,
+        "name": "Typiano Delivery Van",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "5342tdqwxefd_large.png",
+            "smallSrc": "5342tdqwxefd_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 1100000,
+        "lastModified": 1663518580
+    },
+    {
+        "id": 328,
+        "assetKey": "1243fcdasa1",
+        "carID": 328,
+        "name": "Boatie Classic",
+        "options": {
+            "rarity": "epic",
+            "largeSrc": "1243fcdasa1_large.png",
+            "smallSrc": "1243fcdasa1_small.png"
+        },
+        "enterSound": "muscle",
+        "price": 2100000,
+        "lastModified": 1663516221
+    }
+]
